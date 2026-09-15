@@ -1,0 +1,47 @@
+============================================================
+FACILITY DATA CLEANING REPORT
+============================================================
+
+Original shape: (510, 10)
+Columns: ['facility_id', 'location', 'facility_type', 'cleanliness_score', 'odor_score', 'waste_level', 'water_availability', 'footfall', 'complaints', 'inspection_date']
+
+--- 1. MISSING VALUES (before) ---
+  cleanliness_score: 21 (4.1%)
+  odor_score: 19 (3.7%)
+  complaints: 15 (2.9%)
+
+--- 2. DUPLICATES ---
+  Full-row duplicates removed: 10
+  Rows with duplicate facility_id (kept first): 20
+
+  Shape after dedup: (500, 10)
+
+--- 3. INVALID VALUES -> FIXED ---
+  cleanliness_score: 28 invalid -> NaN
+  odor_score: 12 invalid -> NaN
+  waste_level: 13 invalid -> NaN
+  footfall: 1 invalid -> NaN
+  complaints: 0 invalid -> NaN
+  water_availability: 7 invalid -> 'Unknown'
+
+--- 4. IMPUTATION (median for numeric) ---
+  cleanliness_score: 48 NaN -> 6.50
+  odor_score: 31 NaN -> 5.50
+  waste_level: 13 NaN -> 4.50
+  footfall: 1 NaN -> 302.00
+  complaints: 14 NaN -> 4.00
+
+--- 5. OUTLIERS -> CAPPED (1.5 x IQR winsorize) ---
+  cleanliness_score: capped 3 low + 0 high (bounds 2.50..10.50)
+  odor_score: capped 2 low + 0 high (bounds 0.45..10.45)
+  waste_level: capped 0 low + 0 high (bounds -1.50..10.50)
+  footfall: capped 0 low + 10 high (bounds -50.50..675.50)
+  complaints: capped 0 low + 0 high (bounds -4.00..12.00)
+
+--- 6. POST-CLEAN VALIDATION ---
+  Remaining missing values: 0
+  Remaining duplicates: 0
+  All numeric values within valid ranges: True
+
+Cleaned shape: (500, 10)
+[OK] Saved to ../dataset/facility_data_clean.csv
