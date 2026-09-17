@@ -1,0 +1,1501 @@
+facility_id,location,facility_type,cleanliness_score,odor_score,waste_level,complaints,footfall,hours_since_cleaning,inspection_date,hygiene_risk
+FAC01294,Delhi,Market,4.8,5.5,4.8,4,264,14.6,2024-05-28,Medium
+FAC00197,Kolkata,Market,7.8,4.6,7.3,3,323,1.4,2024-05-03,Medium
+FAC00966,Bangalore,Park,4.9,7.5,5.0,8,435,11.2,2024-06-05,High
+FAC00210,Chennai,Public Toilet,7.1,4.9,4.6,8,430,23.5,2024-06-18,Medium
+FAC00412,Pune,Park,7.4,6.3,3.6,5,205,5.3,2024-02-24,Low
+FAC00377,Delhi,Public Toilet,7.4,4.8,4.5,1,326,20.3,2024-07-01,Low
+FAC01303,Pune,Park,8.7,5.2,4.3,1,354,21.5,2024-05-23,Low
+FAC01168,Kolkata,Public Toilet,7.9,3.5,3.4,5,282,4.1,2024-06-16,Low
+FAC01421,Chennai,Public Toilet,5.3,4.5,6.8,4,211,15.0,2024-03-15,Medium
+FAC00419,Kolkata,Public Toilet,3.9,7.8,6.3,2,444,8.1,2024-11-30,High
+FAC00085,Mumbai,Bus Stand,4.8,5.4,7.0,9,713,6.8,2024-08-27,High
+FAC01254,Delhi,Park,5.7,8.1,5.2,5,247,20.9,2024-01-05,High
+FAC01169,Delhi,Public Toilet,5.3,4.0,4.6,3,64,13.1,2024-03-12,Low
+FAC01210,Chennai,Park,7.9,5.9,3.5,5,297,6.3,2024-03-06,Low
+FAC00223,Pune,Park,4.6,6.0,5.5,1,596,13.5,2024-06-28,Medium
+FAC00859,Delhi,Park,5.3,5.7,6.9,0,636,0.5,2024-09-27,Medium
+FAC00957,Pune,Public Toilet,5.8,3.3,4.2,3,343,5.4,2024-03-14,Low
+FAC00366,Bangalore,Park,5.3,6.6,3.1,0,80,21.3,2024-05-09,Medium
+FAC00300,Mumbai,Railway Station,7.0,,6.1,6,166,17.6,2024-07-10,Low
+FAC00351,Kolkata,Public Toilet,5.7,4.5,1.1,7,53,5.6,2024-07-05,Low
+FAC00071,Chennai,Bus Stand,5.6,4.5,6.2,2,274,6.0,2024-03-15,Medium
+FAC00512,Mumbai,Bus Stand,7.6,6.0,2.0,5,88,20.5,2024-04-26,Low
+FAC01290,Mumbai,Hospital,6.2,8.1,5.6,4,96,6.8,2024-10-24,Medium
+FAC01053,Mumbai,Bus Stand,5.5,6.9,4.8,6,265,21.9,2024-06-30,Medium
+FAC01482,Bangalore,Bus Stand,7.1,4.5,0.5,0,56,18.8,2024-07-28,Medium
+FAC01408,Mumbai,Market,4.2,7.4,4.7,5,624,19.3,2024-03-30,High
+FAC00700,Bangalore,Market,8.1,3.9,4.0,4,191,6.7,2024-12-19,Low
+FAC00657,Delhi,Park,3.9,5.5,3.1,0,234,4.6,2024-10-18,Low
+FAC00083,Pune,Public Toilet,6.7,4.1,5.2,6,329,0.3,2024-11-17,Low
+FAC01048,Kolkata,Market,6.0,7.2,5.4,4,491,19.6,2024-02-14,Medium
+FAC00878,Mumbai,Hospital,3.8,6.6,6.2,4,243,19.3,2024-03-20,High
+FAC00835,Bangalore,Market,3.3,7.3,3.6,0,474,14.4,2024-05-15,High
+FAC00729,Chennai,Hospital,5.9,5.9,5.3,1,114,17.7,2024-08-07,Medium
+FAC00528,Delhi,Railway Station,4.4,2.5,1.5,4,121,12.1,2024-06-05,Low
+FAC00356,Bangalore,Park,7.4,1.4,8.9,4,212,16.1,2024-03-21,Medium
+FAC00436,Chennai,Hospital,6.0,8.0,4.8,6,262,7.0,2024-11-05,Medium
+FAC00017,Delhi,Railway Station,3.8,0.3,6.3,5,150,27.5,2024-08-04,High
+FAC01291,Kolkata,Public Toilet,6.3,8.6,4.8,6,379,14.9,2024-02-27,High
+FAC00609,Pune,Market,8.1,6.9,5.6,4,406,22.0,2024-11-04,Medium
+FAC00367,Kolkata,Market,4.6,8.0,4.2,0,176,2.8,2024-04-19,Medium
+FAC00687,Kolkata,Hospital,5.5,3.5,5.1,0,304,15.5,2024-06-18,Low
+FAC00775,Mumbai,Bus Stand,7.2,8.4,5.8,0,218,13.9,2024-04-27,Medium
+FAC00441,Chennai,Hospital,5.8,7.3,3.3,9,157,16.0,2024-03-13,Medium
+FAC00568,Bangalore,Public Toilet,6.2,6.0,6.7,3,359,27.0,2024-06-21,Medium
+FAC00894,Chennai,Hospital,7.5,6.7,6.5,3,199,8.5,2024-02-24,High
+FAC01068,Bangalore,Railway Station,8.4,5.3,4.4,7,312,2.3,2024-04-05,Low
+FAC00053,Chennai,Bus Stand,6.7,,5.8,2,105,16.4,2024-04-03,Low
+FAC00459,Delhi,Public Toilet,6.2,6.2,6.0,1,385,8.0,2024-01-20,Medium
+FAC01201,Delhi,Market,4.7,4.1,2.5,0,482,18.3,2024-11-30,Low
+FAC00899,Delhi,Public Toilet,4.3,0.8,4.2,0,360,19.1,2024-10-13,Medium
+FAC00347,Chennai,Bus Stand,3.3,2.5,3.7,6,218,9.4,2024-06-10,Medium
+FAC01332,Delhi,Bus Stand,8.4,5.0,5.0,3,303,12.0,2024-05-02,Low
+FAC00662,Mumbai,Hospital,6.3,7.7,8.4,2,404,5.3,2024-08-12,High
+FAC00692,Kolkata,Railway Station,8.6,4.4,1.4,3,316,15.0,2024-05-06,Low
+FAC00318,Pune,Market,5.9,5.7,0.9,2,426,0,2024-12-01,Low
+FAC00626,Chennai,Market,5.9,5.7,5.7,3,0,4.0,2024-05-31,Medium
+FAC00453,Chennai,Public Toilet,6.5,7.0,5.0,5,41,17.1,2024-07-31,Medium
+FAC01322,Bangalore,Railway Station,6.1,6.5,3.8,5,75,21.4,2024-01-26,Medium
+FAC00915,Chennai,Market,9.0,,2.6,8,298,27.3,2024-11-14,Low
+FAC00531,Chennai,Bus Stand,5.8,5.2,3.8,6,180,21.1,2024-07-26,Medium
+FAC01324,Mumbai,Public Toilet,3.8,3.0,7.5,4,72,0,2024-05-17,Medium
+FAC00425,Bangalore,Hospital,4.1,7.8,5.2,2,687,20.6,2024-01-08,High
+FAC00635,Kolkata,Park,9.2,5.3,7.8,2,237,16.4,2024-12-26,Medium
+FAC00267,Chennai,Park,6.6,4.0,3.5,3,234,25.4,2024-10-20,Low
+FAC00543,Kolkata,Railway Station,7.8,4.4,4.0,7,496,10.3,2024-03-26,Low
+FAC00322,Chennai,Public Toilet,7.8,6.7,8.2,1,86,6.7,2024-03-09,Medium
+FAC01475,Chennai,Market,4.8,4.0,3.0,5,232,15.9,2024-07-05,Medium
+FAC00727,Bangalore,Hospital,8.7,,8.8,4,72,22.8,2024-09-28,Medium
+FAC00911,Bangalore,Public Toilet,7.3,4.3,6.0,2,247,13.0,2024-09-05,Low
+FAC00483,Mumbai,Railway Station,9.1,3.8,4.2,0,487,17.4,2024-11-15,Low
+FAC00429,Mumbai,Public Toilet,3.3,5.2,6.6,2,263,12.0,2024-12-30,High
+FAC00077,Chennai,Public Toilet,3.5,2.4,2.0,4,233,10.1,2024-02-16,Medium
+FAC00193,Mumbai,Railway Station,7.7,1.3,5.3,4,381,18.2,2024-07-22,Low
+FAC01474,Pune,Park,5.4,4.0,6.3,6,232,11.6,2024-05-20,Medium
+FAC00824,Chennai,Railway Station,9.6,5.1,8.1,6,429,0,2024-12-16,Medium
+FAC00036,Kolkata,Market,5.5,7.8,6.3,4,129,18.5,2024-04-19,High
+FAC00338,Pune,Hospital,5.5,8.2,4.2,5,671,26.1,2024-04-17,High
+FAC01188,Pune,Market,7.5,2.3,2.0,4,211,20.5,2024-07-02,Low
+FAC01330,Kolkata,Park,5.1,5.1,6.1,9,289,2.2,2024-05-28,Medium
+FAC00119,Kolkata,Park,5.5,6.4,5.7,11,205,14.5,2024-02-21,High
+FAC01282,Kolkata,Park,4.8,7.2,4.4,0,449,15.1,2024-09-25,Medium
+FAC00460,Mumbai,Park,5.9,5.6,2.1,4,453,30.9,2024-03-14,Medium
+FAC00278,Pune,Park,7.7,3.7,6.4,1,623,22.2,2024-10-19,Low
+FAC00702,Bangalore,Park,6.0,4.7,5.5,3,440,3.8,2024-06-16,Medium
+FAC01195,Mumbai,Hospital,6.2,5.2,3.0,2,223,18.8,2024-10-30,Low
+FAC00438,Chennai,Market,5.7,4.2,5.0,5,485,11.6,2024-05-06,Medium
+FAC00540,Mumbai,Railway Station,5.5,8.1,3.9,2,253,8.3,2024-01-15,Medium
+FAC01010,Bangalore,Park,5.2,6.6,3.3,8,540,16.1,2024-01-12,Medium
+FAC00607,Bangalore,Park,8.3,6.6,6.9,6,363,18.6,2024-06-01,Medium
+FAC00253,Mumbai,Bus Stand,6.9,6.4,2.5,4,0,9.4,2024-03-02,Low
+FAC00168,Kolkata,Railway Station,6.2,5.1,3.7,6,272,9.3,2024-08-06,Low
+FAC00028,Delhi,Hospital,8.1,5.8,2.5,2,467,16.0,2024-07-02,Low
+FAC00252,Kolkata,Public Toilet,5.3,9.2,6.5,2,389,7.8,2024-03-10,High
+FAC00891,Kolkata,Park,8.4,3.7,9.0,5,494,11.9,2024-07-02,Medium
+FAC00650,Pune,Park,7.0,4.2,5.5,1,424,22.4,2024-03-12,Low
+FAC00203,Bangalore,Market,10,2.3,3.4,3,255,17.0,2024-08-10,Low
+FAC01455,Kolkata,Hospital,5.7,7.3,4.9,0,495,10.2,2024-03-25,Medium
+FAC00829,Pune,Park,8.4,5.5,5.1,2,0,20.6,2024-08-03,Low
+FAC00361,Kolkata,Public Toilet,5.6,6.0,5.8,9,153,13.8,2024-11-10,Medium
+FAC00875,Bangalore,Park,8.2,9.3,3.5,6,0,3.8,2024-12-25,Medium
+FAC00490,Mumbai,Market,6.3,2.1,3.4,2,192,24.4,2024-02-04,Low
+FAC01142,Mumbai,Railway Station,5.4,10,2.9,0,299,,2024-10-20,High
+FAC00323,Mumbai,Market,5.7,5.3,8.3,1,130,15.0,2024-03-06,Medium
+FAC01087,Bangalore,Railway Station,6.1,2.1,4.8,2,250,14.0,2024-04-26,Low
+FAC00819,Kolkata,Railway Station,10,3.4,2.6,4,282,22.0,2024-09-19,Low
+FAC00105,Chennai,Park,5.2,6.1,2.7,3,504,21.7,2024-04-22,Medium
+FAC01431,Kolkata,Hospital,7.6,7.8,1.5,5,464,18.3,2024-05-24,Medium
+FAC00733,Kolkata,Park,6.2,7.7,5.5,3,450,21.5,2024-04-24,Medium
+FAC00333,Mumbai,Hospital,6.0,6.9,6.8,8,499,14.3,2024-11-01,High
+FAC00533,Kolkata,Bus Stand,7.2,2.3,6.3,2,459,19.9,2024-07-24,High
+FAC01170,Mumbai,Park,1.8,4.7,4.9,9,463,12.7,2024-10-06,High
+FAC00780,Delhi,Bus Stand,6.4,7.0,3.8,3,496,21.0,2024-12-01,Medium
+FAC00848,Delhi,Park,7.6,0.6,0.3,4,84,20.1,2024-08-07,Low
+FAC00545,Kolkata,Hospital,5.7,8.8,0.6,7,378,18.8,2024-10-13,High
+FAC01016,Delhi,Market,6.3,8.0,3.7,4,139,23.6,2024-04-08,Medium
+FAC00420,Pune,Market,4.5,3.3,7.0,5,232,23.4,2024-12-10,Medium
+FAC00132,Pune,Market,9.0,6.1,3.7,9,543,17.5,2024-07-23,Medium
+FAC00886,Mumbai,Bus Stand,8.4,3.6,6.3,7,247,0,2024-02-04,Low
+FAC00241,Pune,Hospital,9.0,6.7,4.1,0,383,15.2,2024-06-07,Low
+FAC01276,Chennai,Market,7.4,5.3,3.2,7,281,9.1,2024-06-23,Low
+FAC00082,Delhi,Park,9.8,5.9,4.4,4,503,3.6,2024-05-26,Low
+FAC01344,Delhi,Railway Station,6.9,4.8,4.9,3,420,21.3,2024-03-30,Low
+FAC00269,Bangalore,Railway Station,8.3,9.0,7.4,6,105,1.2,2024-02-04,High
+FAC00590,Pune,Bus Stand,6.5,7.6,4.6,7,279,11.3,2024-07-22,Medium
+FAC01223,Delhi,Public Toilet,5.5,6.6,7.4,4,327,9.1,2024-01-09,High
+FAC00021,Chennai,Public Toilet,4.4,4.2,5.3,2,383,13.2,2024-04-30,Medium
+FAC01460,Bangalore,Park,8.1,4.6,4.4,7,420,21.1,2024-03-22,Low
+FAC00647,Chennai,Public Toilet,6.7,9.5,4.0,11,265,8.6,2024-07-27,High
+FAC00328,Pune,Railway Station,7.8,6.6,5.3,4,290,28.0,2024-02-01,Medium
+FAC01158,Pune,Railway Station,5.6,2.8,6.2,6,208,14.2,2024-06-22,Medium
+FAC00464,Chennai,Hospital,5.7,10,5.5,0,385,20.1,2024-01-15,High
+FAC01428,Delhi,Market,4.4,2.4,5.3,8,251,,2024-02-19,Medium
+FAC01492,Chennai,Public Toilet,4.0,5.3,6.6,5,449,13.5,2024-05-14,High
+FAC01337,Pune,Market,9.1,0,5.6,4,333,10.2,2024-05-05,Low
+FAC01396,Chennai,Public Toilet,6.2,6.4,6.0,0,411,8.2,2024-08-07,Medium
+FAC00504,Kolkata,Park,2.9,5.5,5.3,9,58,20.5,2024-12-16,High
+FAC00836,Bangalore,Bus Stand,6.2,5.2,5.1,3,599,16.3,2024-06-11,Medium
+FAC00573,Chennai,Market,5.4,4.2,2.9,2,398,17.4,2024-10-13,Low
+FAC00476,Delhi,Railway Station,5.5,7.2,2.7,6,225,6.3,2024-08-01,Medium
+FAC00067,Bangalore,Hospital,3.1,6.8,6.9,3,201,17.8,2024-09-10,High
+FAC01351,Bangalore,Park,5.6,7.8,3.2,6,435,12.2,2024-09-13,Medium
+FAC00298,Bangalore,Hospital,4.4,5.0,5.4,2,466,13.6,2024-03-14,Medium
+FAC00313,Bangalore,Public Toilet,8.8,2.3,4.0,0,135,15.0,2024-12-01,Low
+FAC01028,Delhi,Hospital,6.5,7.0,5.2,0,231,7.9,2024-09-25,Medium
+FAC00615,Chennai,Public Toilet,4.8,6.2,8.7,6,162,18.5,2024-12-23,High
+FAC01078,Chennai,Railway Station,7.3,3.2,3.7,2,515,4.8,2024-01-21,Low
+FAC00794,Chennai,Park,8.7,4.4,4.7,3,371,4.3,2024-03-12,Low
+FAC00497,Chennai,Public Toilet,1.8,4.9,2.4,4,475,,2024-12-18,High
+FAC00756,Delhi,Railway Station,6.3,7.0,1.5,3,200,18.0,2024-03-15,Medium
+FAC01261,Delhi,Market,5.3,3.0,4.2,0,485,22.0,2024-12-29,Low
+FAC00698,Delhi,Public Toilet,5.3,3.4,3.8,4,180,3.4,2024-03-23,Low
+FAC00234,Chennai,Bus Stand,7.8,7.3,7.6,4,81,18.7,2024-12-17,Medium
+FAC00508,Bangalore,Market,5.0,5.9,6.1,8,110,6.8,2024-06-03,Medium
+FAC00851,Delhi,Public Toilet,6.2,5.7,3.5,6,416,0,2024-09-26,Low
+FAC00901,Delhi,Park,7.0,10,6.0,2,302,11.1,2024-10-21,High
+FAC00478,Bangalore,Bus Stand,7.6,1.7,7.1,1,522,9.3,2024-07-15,Low
+FAC01196,Kolkata,Park,5.8,5.4,4.4,4,222,0,2024-12-18,Low
+FAC00853,Bangalore,Public Toilet,8.4,6.1,6.2,4,448,20.0,2024-01-11,Medium
+FAC01041,Bangalore,Hospital,4.6,6.3,1.4,2,385,3.4,2024-03-23,Medium
+FAC01131,Chennai,Public Toilet,3.2,4.4,2.1,6,340,18.3,2024-11-15,Medium
+FAC01469,Chennai,Hospital,7.1,7.2,3.4,5,111,19.5,2024-10-24,Medium
+FAC01012,Bangalore,Hospital,6.8,6.5,5.2,0,186,18.8,2024-06-12,Low
+FAC01231,Bangalore,Bus Stand,7.6,5.8,4.3,2,168,7.3,2024-03-17,Low
+FAC01198,Chennai,Bus Stand,5.8,2.3,6.6,2,319,8.1,2024-12-26,Medium
+FAC00745,Pune,Public Toilet,6.1,3.9,6.1,6,249,24.2,2024-12-09,Medium
+FAC00742,Chennai,Railway Station,8.5,7.8,1.3,1,467,3.8,2024-12-22,Low
+FAC00263,Chennai,Park,6.4,7.1,4.5,1,110,7.2,2024-04-06,Low
+FAC00852,Delhi,Bus Stand,3.5,4.2,8.2,2,220,4.8,2024-06-12,High
+FAC00636,Bangalore,Park,7.3,6.3,1.2,4,464,11.4,2024-03-02,Low
+FAC01120,Delhi,Public Toilet,3.2,8.0,4.9,5,381,9.6,2024-02-27,High
+FAC00767,Bangalore,Public Toilet,5.1,4.8,3.0,10,133,2.3,2024-01-30,Medium
+FAC01001,Delhi,Public Toilet,7.1,7.1,6.4,4,178,5.9,2024-05-07,Medium
+FAC01284,Pune,Railway Station,5.1,8.5,4.7,0,541,20.1,2024-10-09,High
+FAC00281,Mumbai,Park,6.6,5.2,3.7,0,335,10.2,2024-02-21,Low
+FAC01222,Bangalore,Park,8.2,3.8,6.5,4,228,9.5,2024-10-19,Low
+FAC01389,Mumbai,Park,7.4,5.2,6.0,3,269,7.1,2024-09-15,Low
+FAC00245,Pune,Hospital,5.7,5.4,5.6,2,165,15.4,2024-10-10,Medium
+FAC00264,Bangalore,Public Toilet,5.5,7.6,5.9,5,358,23.6,2024-03-31,High
+FAC00651,Chennai,Railway Station,10,5.4,5.2,7,426,0,2024-12-28,Low
+FAC00827,Pune,Hospital,4.5,7.8,4.4,4,364,3.4,2024-12-06,High
+FAC00839,Mumbai,Park,6.9,4.4,4.2,5,344,14.2,2024-10-05,Low
+FAC01388,Chennai,Bus Stand,6.7,6.1,3.8,1,177,12.5,2024-06-24,Low
+FAC01315,Pune,Hospital,4.9,5.0,4.0,5,393,21.6,2024-04-22,Medium
+FAC00268,Bangalore,Railway Station,8.8,5.9,9.4,0,357,24.2,2024-05-01,Medium
+FAC00288,Chennai,Public Toilet,1.7,7.1,2.0,4,149,26.7,2024-01-15,High
+FAC00214,Delhi,Bus Stand,7.7,1.0,4.4,0,184,11.7,2024-11-18,Low
+FAC01379,Delhi,Railway Station,9.1,4.5,5.1,9,87,19.2,2024-11-27,Low
+FAC00539,Delhi,Railway Station,7.1,4.0,0.7,4,251,24.1,2024-01-02,Low
+FAC00813,Chennai,Market,5.5,0.1,4.3,2,100,21.2,2024-10-27,Low
+FAC01193,Kolkata,Hospital,9.7,5.4,3.6,3,358,16.4,2024-04-17,Low
+FAC00953,Mumbai,Public Toilet,6.2,5.8,2.4,0,580,16.8,2024-05-18,Low
+FAC00714,Chennai,Park,5.6,5.8,6.1,2,122,11.6,2024-05-25,Medium
+FAC01397,Bangalore,Park,9.9,4.3,2.7,2,325,4.0,2024-12-27,Low
+FAC00934,Mumbai,Bus Stand,4.2,3.0,1.3,5,239,1.6,2024-09-17,Medium
+FAC01310,Kolkata,Railway Station,6.8,6.2,5.1,9,300,23.6,2024-10-29,Medium
+FAC01497,Kolkata,Public Toilet,9.2,4.7,5.1,5,378,23.8,2024-05-01,Low
+FAC00477,Delhi,Hospital,9.1,5.4,5.1,4,574,15.3,2024-02-13,Medium
+FAC00625,Chennai,Public Toilet,6.8,3.6,5.8,4,609,14.9,2024-03-25,Low
+FAC00215,Mumbai,Park,5.0,3.8,7.4,4,389,24.1,2024-12-26,Medium
+FAC00180,Kolkata,Park,5.2,6.2,5.5,9,497,17.3,2024-06-12,High
+FAC00705,Delhi,Railway Station,0.6,4.0,5.4,2,529,11.2,2024-12-21,High
+FAC01094,Bangalore,Park,3.5,2.4,8.1,3,198,0,2024-04-30,High
+FAC00933,Chennai,Market,6.1,4.4,8.2,0,134,8.0,2024-06-30,Medium
+FAC01085,Bangalore,Railway Station,6.6,6.6,3.3,2,276,22.0,2024-12-15,Medium
+FAC01027,Bangalore,Bus Stand,3.2,8.6,2.1,0,137,15.0,2024-04-25,High
+FAC00039,Kolkata,Market,5.4,6.1,2.9,0,533,1.2,2024-12-22,Medium
+FAC00877,Bangalore,Public Toilet,5.2,5.0,3.8,4,271,22.5,2024-09-07,Medium
+FAC01101,Pune,Market,7.2,0,4.9,3,553,8.4,2024-12-24,Low
+FAC00372,Chennai,Market,5.1,1.1,1.4,2,122,10.2,2024-04-09,Low
+FAC00690,Delhi,Park,6.6,8.3,5.3,4,222,13.4,2024-02-26,Medium
+FAC00304,Mumbai,Hospital,4.5,7.6,8.8,5,312,23.9,2024-01-11,Low
+FAC00169,Bangalore,Park,8.7,6.9,5.1,5,266,19.4,2024-06-17,Medium
+FAC00709,Kolkata,Public Toilet,6.4,4.8,5.2,1,422,1.7,2024-04-15,Low
+FAC01020,Bangalore,Market,8.7,7.8,3.0,1,501,15.4,2024-01-21,Medium
+FAC00158,Bangalore,Hospital,5.2,6.1,1.7,3,14,16.8,2024-10-14,Medium
+FAC00276,Delhi,Hospital,5.1,5.0,6.1,2,202,16.1,2024-02-01,Medium
+FAC00594,Chennai,Bus Stand,8.8,2.7,4.5,0,252,30.0,2024-06-09,Low
+FAC01238,Chennai,Market,7.4,4.9,5.3,2,380,14.7,2024-07-30,Low
+FAC00239,Kolkata,Park,7.2,9.8,6.6,3,262,26.3,2024-11-23,High
+FAC00257,Chennai,Hospital,7.2,8.1,4.9,2,487,2.1,2024-10-20,Medium
+FAC00834,Bangalore,Market,2.9,5.3,2.6,0,385,27.5,2024-03-04,Medium
+FAC00125,Chennai,Market,6.6,7.1,7.3,6,274,17.9,2024-12-27,Medium
+FAC00984,Pune,Park,8.7,4.6,6.1,7,490,13.7,2024-06-24,Medium
+FAC01045,Delhi,Railway Station,5.9,4.4,5.1,0,237,1.5,2024-04-19,Low
+FAC01099,Kolkata,Railway Station,5.4,3.9,4.0,1,351,28.2,2024-12-14,Low
+FAC00148,Delhi,Public Toilet,5.9,1.4,5.7,3,178,21.5,2024-05-06,Low
+FAC01400,Bangalore,Railway Station,7.2,6.8,2.8,0,364,11.8,2024-02-29,Low
+FAC00906,Delhi,Market,9.6,6.0,5.6,7,143,22.3,2024-12-22,Medium
+FAC00855,Kolkata,Public Toilet,8.4,5.6,5.6,1,275,20.6,2024-09-09,Low
+FAC00380,Chennai,Park,4.4,5.4,4.1,2,564,,2024-04-17,Medium
+FAC00431,Delhi,Public Toilet,3.6,2.5,7.6,0,520,15.9,2024-12-02,High
+FAC01116,Bangalore,Bus Stand,8.0,4.4,6.2,7,230,9.7,2024-11-16,Medium
+FAC00360,Delhi,Market,7.9,7.5,4.9,0,223,13.7,2024-02-05,Medium
+FAC00816,Pune,Market,3.1,2.1,7.8,5,271,8.6,2024-10-17,High
+FAC01209,Mumbai,Market,0.6,6.2,5.7,4,204,8.1,2024-07-27,High
+FAC01308,Delhi,Hospital,3.8,6.3,7.9,4,295,6.5,2024-08-09,High
+FAC00680,Bangalore,Railway Station,5.7,7.7,4.7,4,175,13.4,2024-09-11,Medium
+FAC00801,Delhi,Market,7.5,5.4,3.2,5,101,19.7,2024-11-30,Low
+FAC00089,Pune,Public Toilet,6.5,7.9,3.1,5,554,10.1,2024-07-31,Medium
+FAC00638,Chennai,Market,7.1,9.0,3.5,4,132,27.2,2024-06-21,Medium
+FAC00977,Pune,Bus Stand,5.9,3.7,5.7,2,460,4.7,2024-06-11,Low
+FAC00244,Delhi,Hospital,8.2,6.4,3.0,6,180,10.9,2024-02-29,Low
+FAC01076,Delhi,Bus Stand,5.1,4.6,3.7,5,403,12.6,2024-12-10,Medium
+FAC00051,Pune,Bus Stand,3.6,4.8,7.4,5,486,14.7,2024-08-23,High
+FAC00541,Bangalore,Park,1.3,5.6,3.0,2,150,15.0,2024-03-02,High
+FAC00781,Delhi,Bus Stand,5.1,1.0,7.0,5,178,24.7,2024-01-23,Medium
+FAC00964,Delhi,Bus Stand,2.0,6.5,7.6,1,371,,2024-08-01,High
+FAC00359,Chennai,Park,3.8,2.3,4.1,0,425,12.2,2024-04-22,Medium
+FAC01498,Kolkata,Park,6.8,6.2,3.0,0,673,17.4,2024-03-29,Low
+FAC01194,Chennai,Railway Station,9.2,7.5,5.1,4,394,17.5,2024-03-01,Medium
+FAC01387,Bangalore,Market,6.1,1.5,5.6,0,386,32.7,2024-02-22,Low
+FAC00207,Bangalore,Hospital,8.1,7.1,2.4,1,235,4.8,2024-08-12,Low
+FAC01257,Bangalore,Bus Stand,6.8,4.2,5.6,6,396,13.8,2024-11-09,Low
+FAC00754,Pune,Hospital,3.3,8.3,3.9,4,315,22.4,2024-05-17,High
+FAC01486,Delhi,Bus Stand,7.7,4.9,3.6,1,63,16.7,2024-03-12,Low
+FAC00112,Kolkata,Public Toilet,8.0,5.3,6.4,3,152,17.3,2024-06-29,Medium
+FAC00064,Bangalore,Hospital,9.3,3.4,5.7,4,225,26.4,2024-12-18,Low
+FAC00117,Kolkata,Market,5.0,7.7,5.8,6,562,11.5,2024-06-07,High
+FAC00958,Delhi,Public Toilet,7.3,6.1,6.2,1,320,18.4,2024-10-17,Medium
+FAC01200,Mumbai,Railway Station,3.0,8.3,4.2,3,107,7.7,2024-03-24,High
+FAC01214,Bangalore,Railway Station,5.0,3.2,3.7,4,173,14.5,2024-05-17,Low
+FAC00804,Pune,Bus Stand,6.0,6.5,8.0,0,421,10.9,2024-12-22,Medium
+FAC01026,Kolkata,Railway Station,5.7,2.1,6.7,3,248,10.7,2024-06-09,Medium
+FAC01224,Delhi,Railway Station,3.9,4.2,8.4,3,405,18.2,2024-03-29,High
+FAC01098,Chennai,Bus Stand,7.9,6.1,6.2,3,315,31.0,2024-03-09,High
+FAC00487,Pune,Market,6.0,9.1,6.8,5,140,15.4,2024-12-15,High
+FAC01295,Pune,Bus Stand,7.5,6.5,4.3,5,341,5.0,2024-06-04,Low
+FAC00034,Mumbai,Hospital,8.4,4.3,3.9,0,247,7.3,2024-12-05,High
+FAC00976,Chennai,Hospital,6.7,5.5,5.6,2,291,0,2024-01-29,Low
+FAC01288,Kolkata,Hospital,6.5,5.4,2.9,3,396,0.7,2024-04-18,Low
+FAC01316,Mumbai,Public Toilet,7.2,6.0,2.5,5,276,11.6,2024-06-21,Low
+FAC00078,Delhi,Bus Stand,6.5,2.3,5.6,5,308,15.8,2024-08-08,Low
+FAC01125,Mumbai,Bus Stand,8.4,9.5,3.8,5,412,17.5,2024-10-17,Medium
+FAC00019,Chennai,Hospital,4.5,6.7,7.6,0,325,14.5,2024-05-26,High
+FAC00666,Pune,Park,6.5,5.6,4.0,0,507,0,2024-09-03,Low
+FAC00266,Pune,Park,5.4,6.9,8.0,3,109,18.4,2024-10-14,High
+FAC01155,Chennai,Hospital,8.3,8.0,4.2,4,409,19.4,2024-01-08,Medium
+FAC01393,Mumbai,Bus Stand,9.1,7.7,5.0,6,422,23.9,2024-09-25,Medium
+FAC00307,Bangalore,Bus Stand,6.9,1.7,6.5,3,240,16.5,2024-09-03,Low
+FAC01180,Mumbai,Public Toilet,9.1,2.8,1.6,0,668,7.9,2024-03-22,Low
+FAC00999,Chennai,Public Toilet,6.5,1.4,4.8,4,557,10.0,2024-08-20,Low
+FAC01207,Delhi,Hospital,6.5,4.4,3.2,0,649,14.9,2024-04-19,Low
+FAC00079,Delhi,Market,3.9,4.9,4.9,2,604,21.7,2024-03-14,Medium
+FAC00335,Chennai,Park,4.3,6.7,5.8,5,352,21.0,2024-09-28,High
+FAC00604,Pune,Hospital,7.3,8.0,6.7,5,556,12.0,2024-09-26,High
+FAC01391,Chennai,Park,6.0,6.9,6.4,4,85,2.5,2024-02-27,Medium
+FAC00143,Delhi,Railway Station,8.4,10,0.4,6,397,15.4,2024-12-29,Medium
+FAC00588,Pune,Market,2.4,7.2,1.6,5,506,22.6,2024-05-27,High
+FAC00682,Pune,Park,7.6,6.7,2.8,3,264,8.6,2024-04-07,Low
+FAC00454,Mumbai,Public Toilet,5.1,7.6,4.4,3,359,20.2,2024-06-14,Medium
+FAC00309,Pune,Public Toilet,7.0,10,3.9,7,400,16.9,2024-08-06,Medium
+FAC00715,Chennai,Market,5.7,4.9,6.1,6,378,18.3,2024-07-26,High
+FAC01286,Bangalore,Bus Stand,8.0,6.8,2.6,4,198,12.4,2024-02-11,Low
+FAC00822,Bangalore,Railway Station,2.9,4.6,5.6,5,634,26.8,2024-02-03,High
+FAC01029,Mumbai,Market,7.1,8.2,3.8,4,291,16.6,2024-02-10,Medium
+FAC00473,Kolkata,Hospital,7.5,2.3,3.4,1,262,24.7,2024-06-02,Low
+FAC00904,Mumbai,Park,10,7.6,7.3,1,324,11.9,2024-11-09,Medium
+FAC00658,Chennai,Hospital,6.1,3.8,4.9,3,556,11.7,2024-01-02,Low
+FAC00502,Kolkata,Public Toilet,1.8,4.7,6.4,1,313,8.2,2024-08-29,High
+FAC00616,Chennai,Bus Stand,7.9,8.1,2.4,4,107,13.5,2024-12-02,Medium
+FAC01043,Pune,Market,5.7,6.1,3.5,2,72,27.3,2024-06-15,Medium
+FAC00114,Mumbai,Railway Station,9.3,4.5,9.0,5,226,11.8,2024-08-18,Medium
+FAC00600,Delhi,Bus Stand,6.1,5.3,7.6,3,455,11.8,2024-10-18,Medium
+FAC00509,Pune,Bus Stand,7.7,5.4,6.5,6,445,18.3,2024-11-16,Medium
+FAC00211,Pune,Park,7.8,5.5,2.1,3,136,8.9,2024-10-28,Low
+FAC00463,Kolkata,Railway Station,5.4,7.4,5.5,5,315,15.4,2024-06-28,High
+FAC01329,Bangalore,Railway Station,8.8,4.5,7.4,10,227,18.7,2024-12-11,Medium
+FAC00951,Bangalore,Bus Stand,6.6,2.9,3.2,1,251,18.1,2024-04-27,Low
+FAC00100,Delhi,Bus Stand,3.0,7.6,6.7,2,364,12.7,2024-09-16,High
+FAC00255,Mumbai,Public Toilet,5.6,4.0,5.1,3,175,19.0,2024-03-12,Low
+FAC00633,Mumbai,Market,6.2,4.5,3.2,3,351,5.3,2024-02-17,Low
+FAC00025,Bangalore,Park,9.8,5.6,3.7,8,399,12.4,2024-05-19,Low
+FAC00446,Delhi,Bus Stand,7.0,6.1,5.5,8,316,,2024-09-09,Medium
+FAC00511,Kolkata,Public Toilet,6.7,6.9,1.3,0,248,15.1,2024-09-05,High
+FAC01367,Delhi,Park,5.0,5.7,9.2,3,291,11.1,2024-08-04,High
+FAC00488,Mumbai,Park,5.2,5.6,4.8,3,476,10.1,2024-01-22,Medium
+FAC00668,Mumbai,Market,3.8,5.9,3.2,11,87,12.7,2024-10-13,High
+FAC01241,Kolkata,Railway Station,6.3,6.5,4.0,2,215,19.3,2024-02-09,Low
+FAC00410,Kolkata,Hospital,6.9,8.5,9.3,4,114,0,2024-07-03,High
+FAC00325,Pune,Bus Stand,6.6,4.4,1.1,0,12,12.8,2024-10-10,Low
+FAC00759,Mumbai,Hospital,3.2,3.2,3.5,4,511,14.6,2024-05-16,Medium
+FAC00108,Mumbai,Market,3.6,4.0,3.7,4,460,14.9,2024-07-04,Medium
+FAC01149,Delhi,Bus Stand,4.2,6.2,9.6,7,292,30.4,2024-02-08,High
+FAC00639,Kolkata,Hospital,8.1,2.1,5.4,5,142,3.8,2024-02-15,Low
+FAC00495,Mumbai,Park,7.3,7.5,6.8,8,365,25.3,2024-02-07,High
+FAC01411,Delhi,Railway Station,5.5,7.8,7.4,9,250,20.8,2024-10-03,High
+FAC00791,Bangalore,Bus Stand,7.0,4.9,5.2,5,387,10.1,2024-01-11,Low
+FAC00985,Delhi,Market,3.3,4.3,4.3,7,347,19.4,2024-11-19,Medium
+FAC00282,Bangalore,Market,6.9,1.9,7.5,0,410,9.7,2024-03-29,Low
+FAC01102,Delhi,Railway Station,6.9,3.6,0.6,4,376,20.3,2024-02-16,Low
+FAC00411,Kolkata,Public Toilet,8.1,4.6,2.4,7,376,8.4,2024-04-20,Low
+FAC00974,Pune,Railway Station,7.8,6.5,4.5,10,287,12.7,2024-12-22,Medium
+FAC01021,Pune,Bus Stand,5.8,3.1,3.3,1,383,17.2,2024-02-27,Low
+FAC01415,Delhi,Railway Station,5.4,,7.9,9,502,10.8,2024-02-20,High
+FAC01248,Pune,Railway Station,8.4,7.4,5.3,1,298,6.4,2024-10-07,Medium
+FAC01355,Pune,Public Toilet,8.2,,3.1,0,613,15.6,2024-07-27,Low
+FAC00589,Bangalore,Railway Station,4.8,6.8,5.0,6,435,2.5,2024-01-15,Medium
+FAC01054,Chennai,Bus Stand,9.6,2.1,8.3,9,637,16.6,2024-08-12,Medium
+FAC00331,Kolkata,Hospital,6.2,4.1,7.4,0,212,16.0,2024-10-28,Medium
+FAC01416,Chennai,Park,3.6,7.5,6.3,1,473,28.7,2024-12-17,High
+FAC01340,Delhi,Park,5.0,5.1,2.7,6,431,5.0,2024-03-21,Medium
+FAC01473,Kolkata,Hospital,6.3,10,4.0,2,194,,2024-01-13,Medium
+FAC00054,Chennai,Park,5.4,6.6,4.1,7,468,7.0,2024-07-27,Medium
+FAC01062,Chennai,Bus Stand,6.7,6.2,3.7,5,268,15.4,2024-10-01,Low
+FAC01253,Chennai,Bus Stand,5.8,5.5,5.6,3,349,30.4,2024-07-26,Medium
+FAC00971,Chennai,Hospital,6.0,6.1,3.5,2,434,23.8,2024-08-14,Medium
+FAC00808,Pune,Bus Stand,2.9,4.1,6.8,2,277,5.9,2024-03-05,High
+FAC00212,Chennai,Bus Stand,10,10,2.9,4,379,12.4,2024-06-24,Medium
+FAC00291,Pune,Park,5.0,5.8,3.8,7,168,6.6,2024-10-14,High
+FAC00763,Pune,Market,7.2,,1.4,4,232,5.2,2024-01-04,Low
+FAC01017,Chennai,Bus Stand,3.7,8.4,6.8,10,444,10.7,2024-08-24,High
+FAC01479,Chennai,Public Toilet,7.7,8.5,0,6,88,15.6,2024-02-04,Medium
+FAC00699,Pune,Public Toilet,5.4,4.6,7.1,7,437,24.4,2024-04-20,Medium
+FAC00965,Delhi,Public Toilet,0.4,6.6,7.9,4,342,17.4,2024-10-31,High
+FAC01417,Pune,Park,2.5,5.3,1.7,5,230,2.0,2024-05-01,Medium
+FAC00060,Delhi,Park,5.9,4.3,6.5,0,423,17.1,2024-11-12,Medium
+FAC01061,Pune,Park,6.0,5.1,5.1,4,63,16.4,2024-11-02,Medium
+FAC00081,Pune,Railway Station,9.1,4.7,2.9,4,633,13.9,2024-05-31,Low
+FAC01489,Mumbai,Railway Station,4.9,2.0,6.2,2,519,14.8,2024-05-06,Medium
+FAC01126,Chennai,Hospital,6.3,4.9,4.2,3,401,5.9,2024-07-17,Low
+FAC00299,Delhi,Market,6.6,6.1,1.5,11,298,16.5,2024-10-22,Medium
+FAC01466,Chennai,Hospital,6.1,8.2,1.9,5,492,5.2,2024-02-02,Medium
+FAC01255,Pune,Hospital,2.7,7.2,8.0,1,290,9.7,2024-07-06,Medium
+FAC01495,Bangalore,Market,4.3,7.2,0,0,47,11.6,2024-06-05,Medium
+FAC00484,Delhi,Park,5.3,5.5,7.9,6,317,25.1,2024-11-05,High
+FAC01435,Kolkata,Bus Stand,5.5,5.8,1.2,2,376,4.8,2024-07-30,Low
+FAC00444,Bangalore,Park,4.6,6.0,2.6,3,368,4.7,2024-03-28,Medium
+FAC01139,Delhi,Hospital,2.7,3.7,9.0,3,398,15.8,2024-12-08,High
+FAC00423,Bangalore,Railway Station,4.9,5.2,4.4,7,236,4.4,2024-04-07,Medium
+FAC01398,Kolkata,Railway Station,4.7,8.2,3.3,0,206,23.0,2024-12-30,Medium
+FAC00457,Mumbai,Railway Station,6.0,3.7,3.2,3,206,0.8,2024-05-23,Low
+FAC00669,Bangalore,Park,3.4,10.0,3.7,2,414,16.2,2024-12-20,High
+FAC00676,Chennai,Bus Stand,3.1,3.4,4.3,5,324,25.3,2024-10-26,Medium
+FAC01003,Pune,Hospital,7.9,5.8,7.4,4,272,0,2024-06-21,Medium
+FAC00864,Kolkata,Public Toilet,8.6,8.7,4.6,1,400,10.8,2024-03-01,High
+FAC00728,Mumbai,Hospital,6.3,,1.5,5,451,7.0,2024-06-13,Low
+FAC00748,Chennai,Public Toilet,7.5,6.7,3.7,0,161,12.1,2024-09-28,Low
+FAC00686,Chennai,Market,6.6,5.0,7.3,8,230,26.3,2024-04-25,Medium
+FAC01240,Chennai,Public Toilet,5.5,6.1,8.3,0,317,22.1,2024-03-07,High
+FAC01063,Pune,Public Toilet,8.5,2.5,7.0,4,419,10.4,2024-12-08,Medium
+FAC01427,Pune,Hospital,6.1,6.4,6.1,0,273,6.7,2024-02-03,Medium
+FAC01251,Chennai,Park,6.8,8.9,5.8,2,622,3.8,2024-07-23,Medium
+FAC00766,Pune,Hospital,8.0,5.1,2.9,0,506,1.3,2024-01-02,Low
+FAC00229,Pune,Market,5.9,9.1,3.2,7,151,10.3,2024-02-20,Medium
+FAC01005,Delhi,Railway Station,4.5,3.7,5.5,0,519,17.2,2024-12-18,Medium
+FAC00204,Chennai,Railway Station,5.3,8.7,1.4,9,285,4.8,2024-01-04,High
+FAC00857,Pune,Public Toilet,7.6,6.5,3.7,1,370,18.6,2024-01-03,Low
+FAC01006,Bangalore,Market,5.7,5.4,3.5,5,316,14.8,2024-05-20,Medium
+FAC00802,Pune,Bus Stand,4.4,6.5,2.1,3,388,6.9,2024-12-21,Medium
+FAC00723,Kolkata,Public Toilet,3.0,6.5,4.9,4,430,26.3,2024-11-16,High
+FAC00975,Kolkata,Public Toilet,6.2,6.1,4.1,3,283,5.2,2024-11-27,Low
+FAC00598,Bangalore,Hospital,1.9,2.7,1.9,3,264,15.6,2024-01-14,Medium
+FAC01030,Kolkata,Railway Station,5.0,4.8,4.5,8,234,3.2,2024-01-21,Medium
+FAC00390,Bangalore,Bus Stand,8.3,4.5,8.0,5,0,10.0,2024-07-18,Medium
+FAC01444,Bangalore,Hospital,6.3,5.6,4.6,14,576,19.6,2024-10-28,High
+FAC01480,Pune,Market,7.2,6.2,4.4,2,21,29.4,2024-09-21,Low
+FAC00045,Mumbai,Market,6.0,7.7,2.2,6,396,1.7,2024-09-30,Medium
+FAC00553,Pune,Public Toilet,6.6,6.8,9.2,9,375,16.7,2024-10-12,High
+FAC00562,Kolkata,Public Toilet,5.6,7.2,4.8,0,117,14.6,2024-03-21,Medium
+FAC00317,Mumbai,Public Toilet,5.2,6.2,0.9,5,21,19.1,2024-11-30,Medium
+FAC01245,Mumbai,Park,7.4,5.4,5.5,1,262,1.4,2024-04-10,Low
+FAC01064,Pune,Market,3.2,5.9,5.4,2,336,18.1,2024-02-18,High
+FAC01335,Kolkata,Market,5.3,5.5,0,0,478,16.0,2024-11-09,Low
+FAC00358,Kolkata,Park,8.7,6.1,6.2,7,522,16.5,2024-07-26,Medium
+FAC00275,Mumbai,Hospital,7.4,6.2,0.9,0,241,14.7,2024-05-15,Low
+FAC01441,Bangalore,Market,7.9,4.0,5.8,6,429,,2024-01-30,Low
+FAC01117,Bangalore,Park,8.9,4.3,6.4,2,617,15.0,2024-09-06,Low
+FAC00147,Pune,Railway Station,7.3,2.5,4.4,5,480,17.2,2024-06-09,Low
+FAC00749,Pune,Bus Stand,3.8,5.1,3.8,0,510,23.4,2024-11-02,Medium
+FAC01382,Delhi,Park,4.5,6.0,7.2,5,274,2.4,2024-10-04,High
+FAC00782,Chennai,Public Toilet,3.7,7.0,7.4,0,436,5.6,2024-03-01,High
+FAC00065,Pune,Park,5.1,6.3,2.4,3,45,4.3,2024-04-27,Medium
+FAC00144,Kolkata,Hospital,8.5,4.6,4.4,5,452,32.9,2024-02-17,Low
+FAC00107,Kolkata,Market,5.7,3.1,6.5,0,606,21.0,2024-06-09,Low
+FAC00221,Bangalore,Park,5.9,6.9,3.4,3,65,17.5,2024-02-28,Medium
+FAC00844,Pune,Railway Station,4.9,3.0,5.2,2,238,,2024-09-24,Medium
+FAC00414,Delhi,Market,8.3,3.9,8.7,3,126,19.9,2024-10-06,Medium
+FAC00196,Mumbai,Bus Stand,6.8,9.7,3.6,0,271,32.0,2024-12-02,Medium
+FAC00258,Kolkata,Bus Stand,5.9,5.7,4.1,2,342,19.0,2024-11-13,Low
+FAC00946,Chennai,Market,2.9,5.7,3.1,5,248,14.4,2024-05-27,High
+FAC00305,Pune,Park,7.8,,5.7,5,287,8.8,2024-02-21,Medium
+FAC01452,Delhi,Bus Stand,5.0,4.5,4.3,3,346,11.2,2024-09-30,Medium
+FAC01318,Mumbai,Hospital,7.4,6.0,5.5,3,361,4.3,2024-11-05,Low
+FAC00547,Delhi,Bus Stand,5.6,7.2,6.4,0,97,6.2,2024-03-01,Medium
+FAC01189,Pune,Bus Stand,4.0,6.2,2.7,0,121,28.9,2024-11-19,Medium
+FAC01483,Delhi,Market,5.0,3.8,5.2,5,375,18.6,2024-06-24,Medium
+FAC01127,Delhi,Railway Station,6.5,7.7,4.6,12,200,7.1,2024-04-24,Medium
+FAC00486,Mumbai,Hospital,7.3,4.9,0,4,335,8.2,2024-06-25,Low
+FAC00993,Chennai,Hospital,4.4,9.7,3.1,5,270,25.7,2024-06-26,High
+FAC00494,Kolkata,Market,6.6,3.8,6.5,5,443,13.8,2024-04-12,Medium
+FAC01239,Pune,Railway Station,6.2,5.8,1.1,4,379,27.5,2024-03-12,Medium
+FAC00498,Mumbai,Market,2.2,3.5,2.6,7,136,20.6,2024-06-23,High
+FAC01458,Pune,Hospital,7.0,6.9,7.1,1,185,11.4,2024-10-24,Medium
+FAC00326,Pune,Railway Station,7.1,8.1,4.1,6,108,0,2024-12-21,Medium
+FAC00396,Delhi,Railway Station,6.7,1.0,5.7,0,262,26.9,2024-04-03,Low
+FAC01368,Bangalore,Railway Station,7.9,5.2,2.0,4,473,12.9,2024-10-06,Low
+FAC00447,Mumbai,Bus Stand,4.5,4.2,3.9,4,223,10.5,2024-04-16,Medium
+FAC01451,Kolkata,Hospital,3.0,3.1,5.0,0,367,17.1,2024-10-02,Medium
+FAC00458,Pune,Public Toilet,9.0,5.1,6.1,0,154,20.9,2024-06-10,Low
+FAC00507,Bangalore,Park,6.7,6.2,2.1,0,68,21.3,2024-11-23,Low
+FAC00301,Kolkata,Railway Station,6.4,2.9,4.8,4,308,8.3,2024-09-14,Low
+FAC01079,Kolkata,Railway Station,7.9,6.9,0.9,0,217,0.7,2024-11-04,Low
+FAC00233,Pune,Hospital,4.9,5.6,7.8,6,442,18.6,2024-03-09,High
+FAC00771,Kolkata,Market,7.6,7.0,4.3,4,124,0,2024-09-07,Low
+FAC01056,Mumbai,Public Toilet,3.8,3.4,4.0,5,605,12.7,2024-08-21,Medium
+FAC01433,Kolkata,Public Toilet,6.6,5.5,1.6,8,518,11.2,2024-06-06,Medium
+FAC01038,Chennai,Railway Station,7.9,3.2,7.5,10,551,12.6,2024-05-14,Medium
+FAC00346,Mumbai,Railway Station,5.8,4.8,3.8,1,388,24.0,2024-04-30,Low
+FAC01269,Bangalore,Park,7.5,4.5,4.4,7,701,19.0,2024-02-08,Low
+FAC01105,Delhi,Park,5.4,4.5,5.0,6,565,1.3,2024-12-27,Medium
+FAC00200,Pune,Bus Stand,3.7,6.7,4.1,2,109,4.3,2024-12-30,Medium
+FAC00373,Kolkata,Railway Station,5.0,4.7,3.8,4,439,16.9,2024-10-02,Medium
+FAC01409,Delhi,Bus Stand,5.8,4.2,5.4,0,528,8.8,2024-06-15,Low
+FAC01024,Delhi,Hospital,6.6,7.3,3.5,5,408,12.4,2024-05-30,Medium
+FAC00443,Mumbai,Hospital,9.5,2.8,5.3,3,216,24.3,2024-02-16,Low
+FAC00190,Pune,Public Toilet,6.1,3.5,6.3,6,455,29.4,2024-02-08,Medium
+FAC00137,Mumbai,Hospital,7.5,7.2,3.0,6,397,16.0,2024-02-28,Medium
+FAC00719,Delhi,Market,9.8,4.3,8.2,4,100,0,2024-09-22,Medium
+FAC00778,Bangalore,Railway Station,6.3,5.5,3.6,1,291,20.3,2024-09-08,Low
+FAC00576,Mumbai,Railway Station,4.3,4.4,6.9,7,78,7.3,2024-11-03,Medium
+FAC00737,Kolkata,Railway Station,5.5,4.9,8.7,4,201,27.5,2024-03-16,High
+FAC00256,Mumbai,Public Toilet,9.4,6.7,4.8,5,122,21.1,2024-02-08,Medium
+FAC01292,Bangalore,Market,4.6,2.8,4.8,3,405,17.4,2024-07-07,Medium
+FAC00810,Delhi,Park,8.0,8.5,3.8,2,370,16.0,2024-05-24,Medium
+FAC00435,Kolkata,Park,7.9,5.0,4.5,0,149,4.1,2024-01-14,Low
+FAC00684,Kolkata,Park,6.3,5.1,1.0,0,625,9.2,2024-04-29,Low
+FAC00569,Delhi,Market,4.2,4.4,2.9,5,584,20.9,2024-06-09,Medium
+FAC00747,Bangalore,Park,8.8,5.8,3.1,2,311,0,2024-08-10,Low
+FAC00517,Kolkata,Market,7.1,9.9,9.0,1,453,9.0,2024-08-05,Medium
+FAC01464,Delhi,Public Toilet,5.6,4.5,5.2,2,222,,2024-04-05,Low
+FAC01137,Delhi,Market,4.3,3.2,3.8,9,320,17.9,2024-01-21,Medium
+FAC00354,Kolkata,Park,9.7,3.4,7.5,5,655,26.7,2024-10-23,Medium
+FAC01166,Delhi,Park,6.6,5.8,2.5,0,477,18.2,2024-10-11,Low
+FAC00018,Delhi,Bus Stand,2.5,6.3,8.0,6,364,,2024-02-17,High
+FAC01472,Chennai,Railway Station,5.9,6.0,7.4,6,599,19.7,2024-04-16,High
+FAC00518,Bangalore,Bus Stand,2.9,5.9,5.6,1,332,24.2,2024-07-02,High
+FAC00750,Mumbai,Park,8.4,5.5,4.4,4,112,8.7,2024-02-13,Low
+FAC00126,Bangalore,Public Toilet,3.2,2.5,6.1,4,544,29.3,2024-05-01,High
+FAC00116,Kolkata,Bus Stand,6.7,2.4,7.4,5,247,20.2,2024-12-02,Medium
+FAC00772,Mumbai,Public Toilet,7.2,2.4,3.0,8,459,7.6,2024-02-26,Low
+FAC00520,Chennai,Railway Station,7.8,9.1,2.3,0,544,14.1,2024-05-31,Medium
+FAC00187,Delhi,Railway Station,4.6,7.1,3.6,5,132,13.2,2024-06-12,Medium
+FAC00591,Pune,Park,5.6,2.3,4.5,1,365,15.6,2024-11-06,Low
+FAC00342,Chennai,Bus Stand,4.9,7.2,3.8,8,217,10.0,2024-01-16,Medium
+FAC01225,Chennai,Market,7.4,6.3,3.6,7,191,9.4,2024-12-30,Low
+FAC00768,Kolkata,Park,5.0,4.2,4.5,4,399,10.7,2024-02-13,Medium
+FAC00628,Bangalore,Public Toilet,5.1,5.8,1.0,2,177,3.9,2024-04-11,Medium
+FAC00236,Pune,Market,3.9,3.5,3.5,10,625,16.6,2024-04-06,Medium
+FAC01359,Mumbai,Public Toilet,7.8,7.5,5.2,0,273,31.0,2024-04-24,Medium
+FAC00833,Pune,Market,9.7,5.3,7.0,6,197,8.5,2024-02-21,Medium
+FAC00656,Kolkata,Park,6.8,5.3,1.3,4,304,13.4,2024-05-22,Low
+FAC00843,Mumbai,Bus Stand,4.4,6.6,3.6,2,25,22.1,2024-06-01,Medium
+FAC00820,Pune,Park,4.3,7.6,3.0,3,491,5.5,2024-05-05,Medium
+FAC01044,Kolkata,Railway Station,8.0,1.8,2.3,1,160,10.7,2024-10-12,Low
+FAC00413,Chennai,Railway Station,5.0,7.1,2.4,0,370,18.4,2024-11-03,Medium
+FAC00174,Bangalore,Hospital,5.8,3.1,6.4,2,399,15.5,2024-12-10,Medium
+FAC00287,Chennai,Park,2.2,6.6,4.1,1,404,5.5,2024-07-09,High
+FAC01104,Delhi,Hospital,5.5,6.3,7.1,3,477,14.2,2024-03-29,High
+FAC00841,Mumbai,Market,6.9,2.0,5.0,0,261,32.5,2024-02-22,Low
+FAC01072,Kolkata,Bus Stand,2.9,4.8,3.6,5,506,10.8,2024-11-20,Medium
+FAC00536,Chennai,Railway Station,5.0,6.8,4.2,6,642,11.7,2024-07-31,Medium
+FAC00350,Kolkata,Market,6.6,5.6,4.1,3,178,10.0,2024-10-05,Low
+FAC00890,Pune,Hospital,3.7,7.8,0.8,5,397,19.2,2024-01-18,High
+FAC00552,Chennai,Market,7.4,6.2,1.3,3,177,21.9,2024-06-30,Low
+FAC00337,Chennai,Public Toilet,10,3.0,2.6,6,247,31.2,2024-08-16,Low
+FAC00044,Chennai,Bus Stand,1.8,6.1,4.0,6,556,4.4,2024-04-22,High
+FAC00612,Delhi,Railway Station,7.5,,8.0,8,307,5.3,2024-05-04,High
+FAC00524,Chennai,Park,5.7,5.7,3.0,6,19,13.9,2024-05-29,Medium
+FAC01242,Mumbai,Public Toilet,4.9,7.3,0,5,444,7.3,2024-03-25,Medium
+FAC00967,Mumbai,Bus Stand,6.8,0.8,1.8,2,382,24.2,2024-10-15,Low
+FAC01164,Kolkata,Public Toilet,3.2,4.1,6.9,3,189,29.2,2024-11-01,High
+FAC00246,Delhi,Bus Stand,5.5,4.2,4.7,10,192,27.5,2024-01-27,Medium
+FAC01436,Bangalore,Market,7.8,6.6,4.7,2,421,22.2,2024-12-09,Medium
+FAC00942,Pune,Hospital,5.9,4.7,2.9,0,391,14.9,2024-10-12,Low
+FAC00101,Kolkata,Hospital,5.6,4.2,7.8,7,137,24.0,2024-11-14,Medium
+FAC00505,Bangalore,Park,8.7,8.3,5.6,0,199,10.0,2024-12-22,Medium
+FAC00842,Chennai,Public Toilet,7.2,4.9,5.6,5,347,16.9,2024-02-21,Low
+FAC01333,Mumbai,Public Toilet,7.1,8.7,2.2,8,313,21.0,2024-03-13,Medium
+FAC00582,Pune,Railway Station,8.7,2.6,6.8,2,57,22.0,2024-03-23,Low
+FAC00273,Bangalore,Railway Station,4.7,4.1,6.4,4,482,12.7,2024-12-04,Medium
+FAC00329,Delhi,Park,7.0,7.8,3.1,6,141,6.0,2024-07-18,Medium
+FAC01262,Pune,Market,5.3,3.8,3.1,5,612,18.6,2024-08-25,Medium
+FAC01154,Chennai,Bus Stand,7.7,8.1,1.0,7,191,26.7,2024-08-25,Medium
+FAC00421,Kolkata,Market,9.4,4.8,3.8,3,64,19.8,2024-01-26,Low
+FAC00704,Mumbai,Hospital,4.7,6.8,8.1,6,229,7.8,2024-09-12,Low
+FAC00776,Pune,Bus Stand,5.1,6.3,5.0,5,426,14.6,2024-12-24,Medium
+FAC00949,Kolkata,Bus Stand,2.9,8.0,4.2,8,161,26.5,2024-03-26,High
+FAC00303,Delhi,Public Toilet,6.3,4.2,7.8,0,433,14.7,2024-09-15,Medium
+FAC00667,Delhi,Bus Stand,5.0,5.9,4.8,2,255,21.9,2024-10-04,Medium
+FAC01226,Bangalore,Railway Station,8.6,8.8,6.7,0,589,16.0,2024-09-25,High
+FAC00925,Chennai,Park,6.7,5.2,1.6,0,41,13.1,2024-04-20,Low
+FAC00138,Delhi,Public Toilet,7.2,7.6,5.5,3,359,1.7,2024-09-08,Medium
+FAC00395,Delhi,Park,7.8,9.2,3.1,4,269,2.7,2024-11-16,Medium
+FAC01109,Kolkata,Park,10,3.1,6.3,0,239,0,2024-06-13,Low
+FAC00133,Chennai,Park,7.8,4.2,7.0,3,0,14.3,2024-02-10,Low
+FAC01075,Chennai,Market,8.1,6.1,7.0,8,346,0,2024-11-26,Medium
+FAC01187,Bangalore,Bus Stand,5.3,3.8,3.5,3,306,6.6,2024-06-26,Low
+FAC00717,Chennai,Public Toilet,6.7,2.1,2.7,7,218,8.3,2024-05-04,Medium
+FAC00386,Kolkata,Railway Station,3.9,4.1,6.3,8,173,23.4,2024-07-14,High
+FAC00310,Bangalore,Railway Station,8.9,7.3,8.5,5,269,9.8,2024-02-17,High
+FAC00785,Bangalore,Bus Stand,6.3,5.6,2.1,2,687,15.0,2024-05-12,Low
+FAC00618,Delhi,Bus Stand,5.7,8.7,4.1,2,388,24.4,2024-06-04,Medium
+FAC00427,Chennai,Hospital,5.3,2.6,1.3,8,198,13.0,2024-01-28,Low
+FAC01034,Kolkata,Bus Stand,7.7,5.3,3.2,5,222,8.8,2024-05-15,Low
+FAC01454,Kolkata,Public Toilet,7.9,8.6,4.6,4,141,15.5,2024-07-13,Medium
+FAC00314,Kolkata,Public Toilet,5.5,2.5,4.9,0,0,5.2,2024-12-24,Low
+FAC00621,Kolkata,Public Toilet,4.9,2.7,6.6,2,23,18.1,2024-02-22,Medium
+FAC00871,Chennai,Market,6.6,5.5,3.9,1,345,23.4,2024-06-20,Low
+FAC00757,Mumbai,Park,8.1,5.5,6.6,3,608,25.2,2024-09-07,Medium
+FAC00452,Delhi,Park,5.0,4.3,0,2,268,17.4,2024-09-09,Low
+FAC00038,Chennai,Market,6.5,6.7,6.2,4,12,16.4,2024-12-22,Medium
+FAC00973,Bangalore,Railway Station,0.1,2.8,6.5,2,434,26.0,2024-10-27,Medium
+FAC01439,Chennai,Public Toilet,6.2,5.0,3.4,3,127,12.1,2024-05-09,Low
+FAC00294,Pune,Market,6.2,7.5,4.2,4,265,3.9,2024-09-30,Medium
+FAC01140,Delhi,Park,5.0,8.2,5.4,3,91,5.4,2024-05-09,High
+FAC00062,Bangalore,Hospital,5.7,4.4,5.0,5,495,14.1,2024-12-27,Medium
+FAC00558,Mumbai,Hospital,10,3.6,3.4,3,241,15.1,2024-01-16,Low
+FAC01202,Delhi,Bus Stand,7.5,5.7,2.9,7,385,9.2,2024-02-21,Low
+FAC00563,Bangalore,Hospital,4.6,,7.5,3,54,31.6,2024-07-06,High
+FAC01144,Bangalore,Park,3.8,9.4,4.1,0,194,14.4,2024-12-07,High
+FAC00087,Bangalore,Park,3.6,6.2,3.3,0,486,0,2024-10-14,Medium
+FAC00157,Chennai,Bus Stand,4.5,3.4,5.2,2,302,,2024-06-09,Medium
+FAC00404,Pune,Bus Stand,5.6,6.3,3.6,3,180,14.5,2024-08-12,Medium
+FAC00240,Pune,Hospital,5.2,4.3,3.7,7,404,27.9,2024-11-28,Medium
+FAC00393,Kolkata,Bus Stand,5.3,4.1,3.1,7,378,5.9,2024-01-01,Low
+FAC01350,Mumbai,Park,7.7,1.6,2.4,0,150,3.5,2024-08-21,Low
+FAC00472,Kolkata,Hospital,7.0,5.2,7.6,7,340,6.3,2024-03-12,Medium
+FAC00821,Chennai,Hospital,10,5.6,4.3,5,269,15.8,2024-08-26,Low
+FAC00980,Bangalore,Park,5.3,6.9,1.7,2,156,10.4,2024-04-05,Medium
+FAC00378,Chennai,Park,6.9,6.0,7.0,3,635,14.7,2024-06-10,Medium
+FAC01375,Bangalore,Railway Station,6.5,4.3,5.1,1,519,14.1,2024-11-18,Low
+FAC00416,Kolkata,Bus Stand,10,5.6,5.0,6,371,0,2024-10-19,Low
+FAC01190,Mumbai,Park,7.8,3.3,8.3,3,392,6.8,2024-10-05,Medium
+FAC00058,Mumbai,Public Toilet,6.5,6.6,7.2,4,254,35.4,2024-09-08,High
+FAC00514,Chennai,Market,4.8,7.0,5.3,6,302,21.2,2024-08-26,High
+FAC01153,Delhi,Park,3.5,4.0,3.8,6,377,6.9,2024-04-07,Medium
+FAC01423,Delhi,Hospital,3.8,3.4,5.5,4,250,16.4,2024-08-16,Medium
+FAC00788,Bangalore,Public Toilet,6.0,3.4,3.2,2,595,19.2,2024-03-31,Low
+FAC00992,Chennai,Bus Stand,4.6,5.7,1.5,4,208,0,2024-02-19,Medium
+FAC00208,Mumbai,Market,9.6,7.0,5.5,0,407,19.2,2024-07-12,Medium
+FAC00724,Mumbai,Public Toilet,7.1,4.5,4.1,6,295,21.2,2024-02-21,Low
+FAC00155,Bangalore,Hospital,4.4,4.1,2.2,3,152,10.5,2024-10-25,Medium
+FAC01014,Pune,Market,8.4,8.8,4.5,4,450,2.1,2024-10-24,Medium
+FAC00402,Mumbai,Public Toilet,9.2,2.8,4.8,5,224,8.7,2024-05-04,Low
+FAC00926,Pune,Park,9.3,6.1,0,11,376,15.5,2024-10-21,Medium
+FAC00998,Chennai,Park,4.6,3.4,5.3,0,193,20.5,2024-04-01,Medium
+FAC00693,Bangalore,Market,9.6,3.2,1.9,4,309,7.4,2024-12-30,Low
+FAC00555,Mumbai,Public Toilet,9.0,3.2,6.5,2,558,15.0,2024-12-12,Low
+FAC00254,Kolkata,Public Toilet,6.9,3.8,3.8,0,388,29.4,2024-07-21,Low
+FAC00922,Bangalore,Public Toilet,6.9,10,10,3,627,15.6,2024-04-30,High
+FAC00030,Mumbai,Market,8.2,9.5,5.0,0,194,2.6,2024-07-14,Medium
+FAC00123,Kolkata,Bus Stand,8.4,6.1,1.2,9,273,4.6,2024-08-18,Low
+FAC01354,Pune,Bus Stand,3.3,6.6,2.8,10,288,4.4,2024-07-04,High
+FAC00544,Delhi,Park,8.8,2.7,3.9,1,223,2.8,2024-01-07,Low
+FAC00163,Mumbai,Hospital,8.7,7.5,4.6,4,414,10.8,2024-08-29,Medium
+FAC00042,Delhi,Hospital,5.2,4.3,6.1,5,300,21.0,2024-12-21,Medium
+FAC01494,Kolkata,Hospital,3.9,1.8,4.3,1,269,10.8,2024-05-10,Medium
+FAC00306,Kolkata,Bus Stand,6.0,8.1,7.2,8,521,21.8,2024-04-11,High
+FAC00481,Mumbai,Railway Station,3.7,5.0,4.7,8,197,3.8,2024-11-09,Medium
+FAC00928,Bangalore,Public Toilet,7.7,4.5,6.4,0,336,20.9,2024-07-28,Low
+FAC00426,Pune,Bus Stand,6.8,3.8,2.7,4,313,8.5,2024-11-14,Low
+FAC00092,Bangalore,Bus Stand,7.9,6.0,8.3,3,403,28.5,2024-04-29,Medium
+FAC01287,Kolkata,Bus Stand,8.0,9.5,4.3,2,388,5.7,2024-12-15,Medium
+FAC00024,Pune,Park,6.6,6.9,8.6,1,431,8.7,2024-11-09,High
+FAC01336,Delhi,Bus Stand,6.4,3.6,2.8,6,156,14.0,2024-01-06,Low
+FAC00136,Mumbai,Park,4.3,0.9,6.4,7,328,11.9,2024-10-17,High
+FAC00230,Delhi,Railway Station,10,5.9,5.9,6,488,13.6,2024-06-03,Medium
+FAC00866,Mumbai,Park,6.7,6.6,4.1,8,243,13.6,2024-01-28,Low
+FAC00787,Kolkata,Railway Station,5.4,4.2,5.8,0,467,14.1,2024-12-27,Medium
+FAC00599,Pune,Railway Station,7.3,5.3,1.2,8,431,18.4,2024-08-20,Medium
+FAC00935,Delhi,Railway Station,8.3,3.8,2.5,7,195,19.9,2024-02-19,Low
+FAC01467,Kolkata,Hospital,2.1,5.8,4.5,0,406,18.4,2024-10-06,High
+FAC00889,Bangalore,Market,5.7,4.4,4.5,0,189,15.0,2024-12-07,Low
+FAC00811,Kolkata,Public Toilet,7.3,6.3,9.2,4,360,19.0,2024-10-18,High
+FAC00451,Bangalore,Market,6.6,6.7,7.2,5,514,12.7,2024-12-27,High
+FAC01394,Mumbai,Public Toilet,6.9,3.3,4.4,4,33,0.4,2024-05-25,Low
+FAC00610,Mumbai,Public Toilet,5.2,8.9,2.2,0,553,11.2,2024-04-07,Medium
+FAC01233,Delhi,Park,5.8,7.6,3.5,4,725,16.2,2024-05-17,Medium
+FAC00059,Kolkata,Hospital,4.4,4.4,3.4,4,681,20.0,2024-02-07,Medium
+FAC00896,Chennai,Market,5.6,4.8,5.1,3,338,3.1,2024-12-23,Medium
+FAC00202,Pune,Park,5.4,,6.9,6,90,6.0,2024-02-13,Medium
+FAC00406,Bangalore,Market,4.5,8.1,4.0,9,494,8.8,2024-10-04,Low
+FAC01457,Pune,Bus Stand,5.1,4.6,8.0,8,499,19.6,2024-10-09,High
+FAC00417,Delhi,Hospital,8.1,6.6,5.5,5,413,10.1,2024-10-18,Medium
+FAC01065,Kolkata,Railway Station,5.8,8.1,4.6,6,303,7.3,2024-09-21,Medium
+FAC00344,Delhi,Market,4.0,4.6,4.8,4,156,8.3,2024-06-25,Medium
+FAC00428,Delhi,Market,7.0,5.1,2.9,0,449,10.1,2024-07-16,Low
+FAC00096,Kolkata,Hospital,5.5,5.8,4.1,0,433,9.8,2024-10-26,Low
+FAC01051,Bangalore,Hospital,8.0,5.5,7.0,8,84,7.1,2024-10-21,Medium
+FAC01191,Kolkata,Market,6.4,5.5,7.4,2,378,18.9,2024-07-10,Medium
+FAC00043,Kolkata,Market,6.7,7.4,3.5,6,599,19.8,2024-01-11,Medium
+FAC00907,Delhi,Public Toilet,5.6,3.0,5.4,4,61,2.5,2024-05-01,Low
+FAC00382,Delhi,Park,5.7,3.6,5.6,2,356,17.8,2024-05-18,Medium
+FAC00955,Bangalore,Market,8.4,2.7,1.5,6,262,22.4,2024-07-11,Low
+FAC00106,Chennai,Park,7.5,5.9,8.0,2,331,7.4,2024-03-07,Medium
+FAC01465,Chennai,Bus Stand,7.8,4.5,2.5,3,366,1.8,2024-06-03,Low
+FAC00959,Delhi,Park,6.5,3.9,3.9,6,402,,2024-12-19,Low
+FAC00510,Bangalore,Railway Station,6.1,6.7,5.5,0,497,12.2,2024-11-26,Medium
+FAC00924,Bangalore,Bus Stand,4.8,8.5,3.5,6,215,6.6,2024-01-23,High
+FAC00872,Kolkata,Market,5.8,0,4.5,7,302,15.0,2024-12-05,Low
+FAC00661,Bangalore,Railway Station,10,4.2,5.2,6,526,18.3,2024-11-16,Medium
+FAC00854,Bangalore,Hospital,4.0,2.3,9.2,3,254,29.0,2024-01-21,High
+FAC01298,Kolkata,Park,6.3,5.0,0.6,1,327,20.5,2024-10-11,Low
+FAC01471,Pune,Public Toilet,8.3,7.2,4.1,0,547,18.4,2024-07-14,Low
+FAC01289,Pune,Market,3.6,7.8,4.3,5,482,12.6,2024-03-04,High
+FAC00213,Mumbai,Hospital,4.6,5.2,7.3,6,262,14.9,2024-11-27,High
+FAC01272,Chennai,Bus Stand,4.8,6.2,4.7,7,620,24.8,2024-05-11,High
+FAC00689,Bangalore,Bus Stand,7.0,4.9,6.7,6,559,16.4,2024-07-16,Medium
+FAC00938,Delhi,Public Toilet,7.5,4.3,10,0,327,0,2024-09-17,Medium
+FAC00861,Bangalore,Bus Stand,6.2,4.0,9.5,7,344,14.5,2024-02-23,High
+FAC01013,Bangalore,Market,9.4,8.0,8.0,2,238,23.0,2024-08-25,High
+FAC01250,Delhi,Park,4.6,5.6,2.1,3,293,6.0,2024-02-24,Medium
+FAC01463,Pune,Park,3.9,6.7,6.2,4,386,28.7,2024-07-02,High
+FAC00617,Kolkata,Bus Stand,8.6,3.3,2.9,5,536,9.8,2024-03-23,Low
+FAC00939,Chennai,Hospital,5.9,5.1,6.6,1,382,22.7,2024-10-19,Medium
+FAC00369,Mumbai,Bus Stand,7.6,6.2,2.6,6,261,0,2024-11-01,Low
+FAC01266,Chennai,Hospital,8.0,7.8,6.8,0,296,21.9,2024-04-10,Medium
+FAC01181,Bangalore,Bus Stand,4.5,7.5,8.0,3,229,18.6,2024-03-02,High
+FAC00113,Kolkata,Park,5.5,7.4,8.3,5,603,21.4,2024-08-24,High
+FAC01097,Pune,Bus Stand,4.3,5.9,4.0,3,353,14.0,2024-09-01,Medium
+FAC01230,Chennai,Railway Station,6.5,7.3,7.0,3,473,27.7,2024-01-19,High
+FAC00730,Mumbai,Bus Stand,8.9,2.0,4.4,1,350,18.2,2024-09-15,Low
+FAC01089,Kolkata,Bus Stand,8.8,3.4,6.4,3,481,20.8,2024-10-13,Low
+FAC01263,Delhi,Public Toilet,7.1,1.5,0.9,5,312,1.5,2024-12-24,Low
+FAC01338,Pune,Bus Stand,4.9,7.9,1.2,4,415,4.3,2024-11-13,Medium
+FAC00990,Chennai,Public Toilet,6.3,4.3,1.9,10,455,12.7,2024-03-25,Medium
+FAC00823,Kolkata,Public Toilet,8.5,5.3,3.9,0,312,16.2,2024-06-12,Low
+FAC01277,Pune,Market,8.1,6.9,5.1,2,403,24.6,2024-04-26,Medium
+FAC01366,Kolkata,Public Toilet,5.5,5.6,7.9,9,88,28.4,2024-08-27,High
+FAC00160,Bangalore,Market,1.6,5.9,4.3,6,743,5.8,2024-09-07,High
+FAC00139,Mumbai,Park,6.8,6.0,6.2,8,611,13.7,2024-12-29,Medium
+FAC00235,Delhi,Park,7.0,5.9,4.6,0,13,27.7,2024-02-13,Low
+FAC00641,Kolkata,Park,3.3,3.8,3.9,0,465,21.2,2024-01-28,Medium
+FAC00131,Chennai,Railway Station,9.3,6.7,2.9,4,422,15.5,2024-10-05,Medium
+FAC00550,Pune,Park,5.2,4.7,4.4,3,481,24.5,2024-09-13,Medium
+FAC00302,Chennai,Railway Station,8.1,8.6,4.1,6,290,3.3,2024-06-24,Medium
+FAC00630,Bangalore,Railway Station,6.5,5.8,5.4,0,335,27.8,2024-01-31,Medium
+FAC00219,Chennai,Bus Stand,10,3.2,5.2,5,295,19.0,2024-01-05,Low
+FAC00565,Kolkata,Market,2.8,3.0,6.2,5,303,15.4,2024-10-17,High
+FAC00182,Bangalore,Market,4.9,3.9,0,4,542,9.7,2024-03-17,Medium
+FAC00056,Mumbai,Hospital,4.7,4.8,7.3,3,214,21.1,2024-06-10,Medium
+FAC00956,Bangalore,Park,10,,2.4,2,485,8.6,2024-07-20,Medium
+FAC00167,Pune,Railway Station,8.7,5.2,0,4,426,6.8,2024-08-22,Low
+FAC00923,Delhi,Public Toilet,8.1,6.4,3.1,3,249,20.9,2024-05-24,Low
+FAC01047,Kolkata,Market,7.5,2.0,5.0,3,474,13.5,2024-06-16,Low
+FAC00142,Pune,Park,6.7,1.7,9.6,7,210,7.2,2024-10-09,Medium
+FAC01175,Bangalore,Market,9.0,3.7,4.1,7,225,13.7,2024-06-16,Low
+FAC00099,Pune,Public Toilet,9.6,6.9,5.4,4,299,0,2024-06-17,Medium
+FAC00674,Chennai,Hospital,4.1,2.0,3.8,5,172,16.1,2024-11-15,Medium
+FAC00055,Bangalore,Market,6.4,2.3,3.1,1,338,10.6,2024-10-24,Low
+FAC00319,Mumbai,Public Toilet,8.0,4.8,6.0,4,123,16.9,2024-08-19,Low
+FAC00340,Chennai,Market,7.5,7.2,4.2,5,588,18.8,2024-05-12,Medium
+FAC01113,Bangalore,Hospital,8.1,5.0,3.0,6,428,3.1,2024-09-17,Low
+FAC00522,Delhi,Park,7.7,6.6,3.1,2,412,23.1,2024-06-20,High
+FAC01217,Bangalore,Bus Stand,5.1,5.0,2.1,4,509,22.6,2024-11-20,Medium
+FAC00492,Pune,Bus Stand,9.7,8.9,7.0,6,126,23.6,2024-02-26,High
+FAC01327,Delhi,Market,7.5,7.0,3.1,0,91,12.4,2024-01-11,Low
+FAC00521,Bangalore,Public Toilet,5.5,2.8,3.3,3,231,3.8,2024-12-11,Low
+FAC01365,Delhi,Bus Stand,10,2.8,0.1,1,573,19.7,2024-04-09,High
+FAC00624,Chennai,Park,5.9,3.4,3.5,2,323,4.2,2024-07-28,Low
+FAC00385,Delhi,Park,4.7,6.0,2.9,6,432,11.4,2024-11-06,Low
+FAC00930,Kolkata,Market,6.6,3.4,3.6,3,311,20.6,2024-03-16,Low
+FAC00069,Pune,Market,5.7,5.6,1.7,3,147,14.1,2024-08-12,Medium
+FAC01002,Kolkata,Market,5.3,5.2,6.1,6,435,9.4,2024-09-25,Medium
+FAC00619,Chennai,Public Toilet,0,2.7,3.6,5,276,9.6,2024-06-21,High
+FAC00548,Chennai,Public Toilet,7.0,4.5,4.8,5,364,16.4,2024-09-04,Low
+FAC01425,Delhi,Public Toilet,5.1,7.5,3.4,1,529,3.8,2024-05-24,Medium
+FAC01381,Mumbai,Park,5.8,4.7,6.0,2,152,11.6,2024-04-05,Medium
+FAC00348,Chennai,Railway Station,7.7,5.4,5.2,8,37,20.0,2024-08-24,Medium
+FAC00052,Bangalore,Bus Stand,3.5,6.7,6.2,3,391,4.7,2024-05-17,High
+FAC01297,Kolkata,Railway Station,2.1,9.3,1.7,2,397,19.0,2024-12-03,High
+FAC00530,Delhi,Bus Stand,9.9,4.8,3.5,0,387,18.8,2024-07-08,Medium
+FAC00954,Delhi,Park,9.0,6.8,4.8,0,620,15.4,2024-07-19,Medium
+FAC00391,Chennai,Park,6.3,7.0,3.8,2,340,12.4,2024-08-31,Medium
+FAC00736,Pune,Park,7.0,5.4,0.6,2,459,13.1,2024-09-23,Low
+FAC00708,Bangalore,Hospital,6.0,6.5,4.8,4,511,9.0,2024-05-22,Medium
+FAC00793,Bangalore,Bus Stand,6.3,5.1,6.3,5,340,14.8,2024-02-12,Medium
+FAC01487,Chennai,Market,10,3.1,4.0,7,344,1.1,2024-02-13,Low
+FAC01312,Mumbai,Hospital,2.9,2.6,5.8,0,364,20.3,2024-10-24,Medium
+FAC01401,Bangalore,Park,6.5,5.5,4.3,4,384,24.9,2024-06-04,Medium
+FAC00583,Pune,Bus Stand,4.5,5.3,1.5,0,306,5.2,2024-08-15,Low
+FAC00874,Chennai,Park,5.6,3.4,4.8,5,456,10.3,2024-10-05,Medium
+FAC01404,Pune,Public Toilet,2.9,4.8,5.8,7,425,2.0,2024-03-14,High
+FAC00084,Bangalore,Park,5.6,7.4,1.6,1,432,17.6,2024-10-03,Medium
+FAC01023,Bangalore,Public Toilet,6.4,3.6,3.9,1,202,15.9,2024-09-24,Low
+FAC01022,Chennai,Bus Stand,4.4,7.6,5.6,5,195,14.7,2024-12-29,High
+FAC00341,Pune,Public Toilet,4.5,6.0,3.8,6,332,14.6,2024-01-24,Medium
+FAC01215,Chennai,Railway Station,5.2,4.6,6.3,2,326,19.2,2024-12-12,Medium
+FAC01060,Bangalore,Railway Station,9.4,4.7,5.1,2,375,11.3,2024-11-16,Low
+FAC00217,Delhi,Railway Station,5.6,6.0,3.2,6,431,24.6,2024-12-10,Medium
+FAC00448,Delhi,Bus Stand,7.9,7.7,8.6,5,167,0.8,2024-08-01,High
+FAC00516,Chennai,Park,7.7,3.6,7.4,3,387,8.5,2024-06-16,Medium
+FAC00115,Chennai,Market,7.1,5.3,4.2,3,190,0,2024-05-24,Low
+FAC00868,Pune,Railway Station,7.2,8.8,3.6,6,105,6.6,2024-09-01,Medium
+FAC00445,Pune,Bus Stand,8.9,2.5,5.2,5,326,11.4,2024-05-27,Low
+FAC00969,Delhi,Park,7.9,8.4,5.5,3,349,9.7,2024-01-27,Medium
+FAC00803,Bangalore,Bus Stand,5.9,4.0,10,4,523,15.1,2024-06-27,High
+FAC01019,Pune,Park,6.2,4.7,4.6,0,158,19.4,2024-05-13,Low
+FAC00952,Mumbai,Bus Stand,7.7,4.4,5.3,8,360,13.2,2024-09-05,High
+FAC00005,Pune,Public Toilet,8.6,2.2,2.9,6,368,9.9,2024-12-15,Low
+FAC00741,Chennai,Public Toilet,4.4,6.5,3.4,6,551,19.6,2024-10-07,High
+FAC00501,Pune,Hospital,1.4,5.4,6.7,0,464,14.8,2024-04-18,High
+FAC00858,Delhi,Park,6.1,8.9,8.5,8,447,17.2,2024-03-28,High
+FAC00535,Pune,Market,5.9,4.6,3.2,3,229,23.9,2024-03-16,Low
+FAC00128,Kolkata,Park,6.3,5.5,3.0,7,411,25.0,2024-10-05,Medium
+FAC00538,Delhi,Bus Stand,8.6,4.3,4.4,4,237,9.1,2024-03-11,Low
+FAC00362,Pune,Market,8.0,,4.6,2,134,0,2024-12-13,Low
+FAC01091,Chennai,Public Toilet,7.6,6.9,6.5,0,524,4.0,2024-04-25,Medium
+FAC00800,Mumbai,Railway Station,7.0,6.3,1.1,5,610,11.8,2024-03-15,Medium
+FAC00677,Chennai,Bus Stand,5.8,1.9,5.3,0,398,20.9,2024-09-22,Low
+FAC01211,Mumbai,Market,8.5,4.7,1.1,7,241,9.5,2024-11-03,Low
+FAC00623,Bangalore,Railway Station,4.0,8.2,5.6,5,589,11.4,2024-02-13,Medium
+FAC00663,Mumbai,Railway Station,5.4,5.7,9.2,2,78,25.7,2024-08-14,High
+FAC01025,Bangalore,Railway Station,6.6,4.4,1.4,0,314,19.7,2024-01-07,Low
+FAC00173,Pune,Bus Stand,8.5,6.6,7.0,5,111,13.6,2024-02-29,Medium
+FAC00718,Kolkata,Park,7.9,4.5,4.5,3,274,10.1,2024-05-06,Low
+FAC00442,Chennai,Park,3.4,6.4,7.4,7,548,9.3,2024-04-01,High
+FAC00194,Mumbai,Market,8.3,4.8,4.7,8,227,28.3,2024-01-17,Medium
+FAC00186,Bangalore,Railway Station,10,3.4,10,11,201,14.8,2024-10-09,High
+FAC00815,Bangalore,Railway Station,6.4,4.2,7.1,3,289,2.5,2024-06-22,Medium
+FAC01265,Delhi,Bus Stand,6.5,5.9,6.6,4,198,23.2,2024-09-13,Medium
+FAC00731,Delhi,Bus Stand,5.5,5.4,8.1,0,498,13.3,2024-10-03,Medium
+FAC00232,Pune,Bus Stand,6.3,5.3,3.5,4,355,25.9,2024-08-04,High
+FAC01311,Bangalore,Railway Station,7.1,4.6,7.2,3,0,5.9,2024-05-22,Low
+FAC00353,Chennai,Market,5.8,0.7,8.0,5,334,20.2,2024-07-03,Medium
+FAC00094,Kolkata,Park,6.6,4.0,4.0,5,569,18.3,2024-07-04,Low
+FAC00118,Bangalore,Public Toilet,5.2,4.0,6.9,7,838,5.1,2024-09-17,Medium
+FAC00456,Bangalore,Park,7.0,6.3,0.5,5,461,8.6,2024-09-23,Low
+FAC01057,Pune,Hospital,4.9,6.8,5.5,3,231,19.3,2024-02-13,High
+FAC00988,Kolkata,Public Toilet,4.5,4.4,1.4,7,317,21.7,2024-04-29,Medium
+FAC01115,Delhi,Railway Station,7.4,4.8,2.8,0,438,14.2,2024-07-18,Low
+FAC01112,Mumbai,Public Toilet,5.8,5.3,6.3,3,27,5.0,2024-09-30,Medium
+FAC00026,Mumbai,Public Toilet,6.7,7.2,3.0,0,198,13.8,2024-05-21,Low
+FAC00475,Chennai,Hospital,10,2.3,7.3,4,396,13.5,2024-10-29,Medium
+FAC00474,Mumbai,Railway Station,4.8,9.9,0,7,281,16.9,2024-05-30,High
+FAC00873,Kolkata,Hospital,8.5,7.4,4.5,3,632,11.9,2024-05-05,Medium
+FAC01132,Pune,Bus Stand,6.8,,7.0,1,477,10.7,2024-10-17,Medium
+FAC01237,Bangalore,Park,6.4,2.9,3.9,0,94,16.4,2024-07-26,Low
+FAC00534,Chennai,Hospital,5.5,5.7,7.4,5,221,11.2,2024-10-02,High
+FAC01058,Delhi,Bus Stand,7.7,1.6,10.0,4,276,,2024-09-22,Low
+FAC01320,Chennai,Market,4.4,4.3,0,4,408,16.3,2024-06-09,Medium
+FAC00469,Delhi,Park,4.3,4.3,1.8,6,479,20.3,2024-07-30,Medium
+FAC01161,Delhi,Market,4.8,4.6,5.0,5,221,24.2,2024-05-01,Medium
+FAC01039,Mumbai,Market,5.2,6.6,4.0,0,265,,2024-07-25,Medium
+FAC00885,Delhi,Bus Stand,4.9,1.7,6.6,6,66,13.1,2024-09-10,Medium
+FAC00184,Chennai,Hospital,7.2,6.5,5.5,8,593,6.7,2024-05-17,Medium
+FAC01100,Delhi,Park,9.6,1.4,7.9,5,84,6.8,2024-04-09,Low
+FAC00430,Bangalore,Public Toilet,6.3,7.9,3.5,6,401,20.2,2024-09-13,Medium
+FAC00247,Bangalore,Bus Stand,8.1,0.1,5.4,3,192,15.4,2024-01-05,Low
+FAC01015,Bangalore,Park,8.2,5.1,2.7,0,463,22.5,2024-01-12,Low
+FAC00838,Pune,Railway Station,7.5,5.2,6.7,1,252,15.4,2024-07-19,Medium
+FAC00405,Delhi,Park,8.1,5.7,4.3,1,562,17.1,2024-10-17,Low
+FAC01496,Kolkata,Hospital,5.4,4.9,2.9,4,237,15.4,2024-11-02,Low
+FAC00320,Chennai,Bus Stand,6.4,4.0,2.5,8,449,12.5,2024-03-25,Low
+FAC00434,Bangalore,Market,4.9,3.3,5.0,4,70,11.4,2024-01-16,Medium
+FAC00790,Bangalore,Bus Stand,6.9,7.5,4.0,5,103,2.5,2024-08-10,Low
+FAC01440,Bangalore,Market,7.0,7.9,0.3,14,411,0.9,2024-08-13,Medium
+FAC00846,Chennai,Park,8.8,6.9,5.8,5,342,17.3,2024-09-10,Medium
+FAC01148,Kolkata,Public Toilet,5.9,3.5,3.6,2,423,2.6,2024-12-12,Low
+FAC00176,Chennai,Public Toilet,6.0,6.6,6.6,7,266,0,2024-07-12,Medium
+FAC01032,Kolkata,Bus Stand,4.0,6.0,5.0,1,249,10.1,2024-10-04,Medium
+FAC01491,Chennai,Market,8.6,2.0,8.7,4,503,3.3,2024-07-21,Medium
+FAC00580,Bangalore,Railway Station,4.8,4.8,6.5,3,351,10.2,2024-07-20,Medium
+FAC00332,Mumbai,Market,3.7,3.3,6.3,3,426,24.9,2024-07-12,High
+FAC00462,Bangalore,Park,7.0,4.8,5.0,0,587,15.9,2024-05-26,Low
+FAC00557,Pune,Park,7.9,2.7,4.0,8,208,10.9,2024-08-31,Low
+FAC01136,Kolkata,Park,5.8,3.8,6.8,6,394,11.3,2024-03-22,Medium
+FAC00577,Chennai,Railway Station,5.1,7.7,1.9,7,334,22.4,2024-08-13,High
+FAC01362,Chennai,Hospital,3.4,2.9,3.6,6,367,0,2024-11-24,Medium
+FAC00812,Bangalore,Market,3.2,4.0,6.4,4,339,13.6,2024-04-09,High
+FAC00468,Bangalore,Park,7.8,4.5,5.8,1,261,14.2,2024-05-24,Low
+FAC01442,Mumbai,Railway Station,5.5,5.9,7.5,3,379,14.5,2024-08-27,High
+FAC00695,Chennai,Market,6.1,4.8,5.5,2,467,7.3,2024-04-21,Low
+FAC01186,Delhi,Railway Station,3.5,4.3,5.5,0,313,7.4,2024-10-05,Medium
+FAC00007,Chennai,Bus Stand,7.0,3.5,8.8,6,87,8.8,2024-11-25,Medium
+FAC01420,Delhi,Public Toilet,5.6,4.5,9.1,0,318,2.2,2024-09-18,Medium
+FAC00140,Delhi,Bus Stand,2.4,4.3,6.6,0,524,9.0,2024-04-12,High
+FAC01096,Kolkata,Public Toilet,5.4,5.2,5.3,2,175,24.1,2024-05-17,Medium
+FAC00226,Chennai,Market,6.0,4.4,5.7,6,324,29.4,2024-11-17,Medium
+FAC01227,Delhi,Bus Stand,8.5,5.7,2.9,6,344,18.3,2024-07-25,High
+FAC00895,Mumbai,Public Toilet,3.1,5.9,8.4,3,307,8.2,2024-08-03,High
+FAC00394,Kolkata,Railway Station,5.1,7.3,9.3,4,492,11.0,2024-01-04,Medium
+FAC00091,Kolkata,Public Toilet,8.5,3.7,6.2,4,702,10.1,2024-11-23,Low
+FAC01249,Mumbai,Market,5.2,4.1,6.4,7,279,4.5,2024-04-25,Medium
+FAC00156,Delhi,Park,8.2,3.4,3.2,2,80,0,2024-09-02,Low
+FAC00015,Delhi,Hospital,9.3,5.5,5.3,4,460,15.4,2024-10-03,Medium
+FAC00249,Mumbai,Bus Stand,8.3,,4.8,6,494,0.1,2024-06-06,Low
+FAC01358,Chennai,Park,8.2,1.8,5.0,0,263,20.7,2024-05-16,Low
+FAC00523,Kolkata,Hospital,7.9,6.9,7.2,2,426,12.6,2024-05-16,Medium
+FAC00424,Delhi,Hospital,6.0,5.2,2.5,12,0,0,2024-04-29,Medium
+FAC00570,Pune,Hospital,4.1,7.0,1.2,5,333,15.4,2024-04-19,High
+FAC00554,Delhi,Public Toilet,8.2,6.6,2.9,6,298,1.9,2024-08-07,Low
+FAC00783,Pune,Bus Stand,4.0,5.7,8.2,2,383,19.6,2024-02-01,High
+FAC00653,Pune,Market,5.4,3.6,7.2,1,335,4.1,2024-01-16,Medium
+FAC01280,Bangalore,Public Toilet,0,5.6,4.3,1,290,12.5,2024-08-05,High
+FAC00251,Delhi,Bus Stand,8.0,4.0,4.6,0,92,13.6,2024-12-05,Low
+FAC01220,Mumbai,Railway Station,5.1,4.9,6.7,4,533,12.8,2024-04-02,Medium
+FAC01361,Bangalore,Hospital,4.6,2.2,1.8,10,350,12.0,2024-02-11,High
+FAC01004,Bangalore,Railway Station,5.7,7.3,6.0,8,273,1.0,2024-10-19,Medium
+FAC00432,Bangalore,Market,6.0,3.0,2.7,0,255,6.3,2024-11-05,Low
+FAC00659,Mumbai,Hospital,5.0,2.8,5.7,1,411,7.2,2024-09-21,Medium
+FAC01446,Chennai,Market,7.7,6.8,1.8,0,600,24.5,2024-01-26,Low
+FAC00586,Chennai,Bus Stand,7.9,9.1,8.7,1,382,33.2,2024-02-15,High
+FAC00986,Delhi,Market,7.9,7.4,3.2,6,284,12.9,2024-01-05,Medium
+FAC00807,Pune,Market,4.6,8.4,4.0,1,504,,2024-08-04,Low
+FAC01339,Bangalore,Public Toilet,4.3,7.1,2.1,9,513,19.0,2024-10-21,High
+FAC00016,Pune,Public Toilet,8.6,4.4,1.0,4,356,9.1,2024-08-27,Low
+FAC01462,Kolkata,Public Toilet,5.9,4.0,6.8,4,479,13.2,2024-11-04,Medium
+FAC01321,Pune,Park,8.3,5.9,7.4,4,444,14.1,2024-07-04,Medium
+FAC00339,Pune,Hospital,6.9,1.4,3.7,4,77,11.1,2024-02-06,Low
+FAC00316,Pune,Market,4.2,5.3,3.3,4,321,7.0,2024-10-08,Medium
+FAC01173,Delhi,Park,4.9,8.4,4.4,3,338,4.7,2024-01-21,Medium
+FAC00809,Chennai,Market,5.8,5.8,1.6,7,535,12.4,2024-11-24,High
+FAC00225,Pune,Bus Stand,5.9,6.9,8.4,0,289,10.8,2024-05-21,High
+FAC00154,Pune,Railway Station,7.4,6.8,2.3,4,168,8.0,2024-11-11,Low
+FAC01235,Chennai,Bus Stand,2.3,5.4,3.6,5,16,17.0,2024-05-22,High
+FAC01228,Pune,Hospital,5.5,,4.6,6,345,24.8,2024-05-04,Medium
+FAC00587,Pune,Park,6.0,9.3,7.4,5,246,11.3,2024-01-08,High
+FAC01124,Kolkata,Hospital,7.7,3.1,4.3,5,186,12.0,2024-01-09,Low
+FAC00192,Pune,Market,6.1,5.1,2.5,3,574,15.3,2024-12-23,Low
+FAC01052,Bangalore,Public Toilet,7.0,4.5,4.8,1,335,15.7,2024-10-03,Low
+FAC01372,Delhi,Park,1.2,4.7,5.8,7,301,4.7,2024-08-06,High
+FAC00597,Kolkata,Bus Stand,8.5,2.1,5.3,4,388,10.3,2024-12-05,Low
+FAC00870,Chennai,Public Toilet,7.0,6.8,7.4,6,449,5.4,2024-05-06,Medium
+FAC00261,Mumbai,Bus Stand,5.9,5.1,5.2,1,385,5.6,2024-03-22,Low
+FAC01418,Pune,Public Toilet,5.8,5.8,6.4,0,593,13.8,2024-07-17,Medium
+FAC00471,Delhi,Railway Station,6.5,8.3,8.9,7,154,9.8,2024-08-15,High
+FAC01108,Bangalore,Public Toilet,7.3,0.7,4.2,3,322,18.4,2024-01-22,Low
+FAC00293,Chennai,Railway Station,8.2,8.2,7.7,0,389,3.8,2024-12-01,Medium
+FAC01377,Mumbai,Park,6.7,6.0,1.7,0,506,18.6,2024-10-31,Low
+FAC00401,Delhi,Railway Station,2.6,8.7,5.7,3,283,0.9,2024-06-01,High
+FAC00134,Bangalore,Market,7.5,5.4,4.3,5,257,19.9,2024-08-15,Low
+FAC00262,Delhi,Bus Stand,5.5,4.1,6.5,0,823,23.2,2024-06-30,Medium
+FAC00321,Pune,Railway Station,7.7,2.4,3.2,5,347,17.8,2024-04-07,Low
+FAC00389,Mumbai,Public Toilet,5.3,6.1,8.0,4,120,0,2024-02-22,High
+FAC00218,Kolkata,Hospital,7.5,6.6,5.9,8,153,13.4,2024-11-21,Medium
+FAC00506,Mumbai,Public Toilet,7.0,6.7,3.6,3,377,3.1,2024-02-11,Low
+FAC00075,Chennai,Hospital,5.8,5.4,1.8,3,542,2.1,2024-03-14,Low
+FAC01341,Delhi,Park,5.4,4.7,4.7,6,286,16.7,2024-05-30,Medium
+FAC00849,Kolkata,Railway Station,3.9,8.8,5.6,1,629,1.1,2024-11-26,High
+FAC01476,Chennai,Bus Stand,4.2,9.0,1.3,1,269,20.5,2024-01-15,High
+FAC00649,Chennai,Railway Station,8.4,5.4,5.4,1,325,14.0,2024-12-14,Low
+FAC00165,Mumbai,Market,3.8,1.9,6.9,6,69,11.2,2024-03-31,High
+FAC00909,Pune,Public Toilet,7.1,6.3,6.5,4,252,9.0,2024-03-03,Medium
+FAC00009,Kolkata,Public Toilet,6.4,1.4,5.3,5,228,4.2,2024-05-08,Low
+FAC00336,Bangalore,Market,8.7,0.4,7.7,4,0,19.8,2024-12-15,Medium
+FAC00343,Bangalore,Public Toilet,5.3,5.2,1.7,7,0,8.2,2024-11-27,Medium
+FAC00161,Bangalore,Public Toilet,3.7,9.2,5.1,1,493,22.3,2024-03-15,High
+FAC00867,Bangalore,Market,6.2,6.1,5.8,5,135,5.3,2024-12-20,Medium
+FAC00905,Mumbai,Public Toilet,5.3,5.5,4.4,2,205,14.1,2024-04-26,Medium
+FAC01450,Kolkata,Park,7.2,2.7,8.6,7,673,6.5,2024-11-10,Medium
+FAC00387,Delhi,Railway Station,1.7,6.5,6.6,0,470,10.4,2024-02-10,High
+FAC00470,Kolkata,Hospital,6.3,6.6,3.8,4,383,25.9,2024-06-24,Medium
+FAC00503,Mumbai,Public Toilet,6.4,8.3,7.6,4,565,5.6,2024-02-02,High
+FAC01008,Delhi,Park,5.2,4.1,0.9,8,465,14.6,2024-09-12,Medium
+FAC01221,Delhi,Public Toilet,6.7,0,5.4,4,474,20.2,2024-08-04,Low
+FAC01049,Bangalore,Public Toilet,1.7,1.4,4.6,0,203,16.7,2024-11-29,Medium
+FAC00231,Pune,Public Toilet,7.8,6.4,7.3,6,289,11.9,2024-08-07,Medium
+FAC00883,Chennai,Bus Stand,7.2,6.0,7.7,1,184,10.3,2024-01-28,Medium
+FAC00384,Pune,Public Toilet,5.7,2.0,3.8,7,173,10.7,2024-08-31,Low
+FAC00979,Bangalore,Park,6.2,6.6,7.4,5,258,6.4,2024-06-08,Medium
+FAC00595,Delhi,Public Toilet,3.8,10,4.7,2,461,4.7,2024-04-27,High
+FAC01156,Bangalore,Park,7.2,4.8,6.0,3,499,14.9,2024-03-22,Low
+FAC00296,Bangalore,Railway Station,6.4,4.1,3.8,1,446,18.0,2024-06-18,Low
+FAC00869,Bangalore,Public Toilet,8.0,3.0,6.1,7,391,20.2,2024-08-07,Medium
+FAC00940,Delhi,Railway Station,5.4,5.8,0.1,5,244,0,2024-02-14,Medium
+FAC00199,Kolkata,Market,4.5,8.3,6.6,3,325,12.1,2024-07-01,High
+FAC01447,Kolkata,Park,5.0,4.7,6.3,0,218,16.1,2024-05-28,Medium
+FAC01360,Mumbai,Public Toilet,5.2,3.3,0.9,0,0,32.4,2024-04-13,Low
+FAC00734,Delhi,Railway Station,7.9,6.1,7.5,1,283,2.5,2024-04-29,Medium
+FAC00129,Mumbai,Park,4.5,4.7,1.7,4,441,13.3,2024-11-17,Low
+FAC00697,Delhi,Railway Station,9.0,5.9,3.5,1,230,20.7,2024-12-29,Low
+FAC00712,Bangalore,Market,4.4,6.4,5.3,5,126,19.0,2024-04-13,High
+FAC00274,Chennai,Bus Stand,6.3,6.0,1.0,1,406,20.2,2024-11-03,Low
+FAC00513,Delhi,Market,6.0,1.4,3.5,5,138,15.7,2024-08-20,Low
+FAC00491,Kolkata,Hospital,7.0,5.9,3.2,4,298,19.1,2024-04-21,Low
+FAC00248,Delhi,Bus Stand,5.4,8.8,4.5,1,30,29.7,2024-10-06,Medium
+FAC00917,Bangalore,Public Toilet,4.1,4.3,3.4,3,125,,2024-12-15,Medium
+FAC00713,Mumbai,Market,10,8.0,3.6,5,142,17.4,2024-09-03,Medium
+FAC01279,Delhi,Market,4.6,8.2,6.4,4,236,15.0,2024-10-30,High
+FAC01357,Mumbai,Hospital,4.9,,5.0,1,201,19.7,2024-08-06,Low
+FAC01192,Delhi,Hospital,2.8,4.9,5.0,6,96,21.3,2024-12-21,High
+FAC00489,Chennai,Hospital,3.2,1.6,0.3,6,410,8.4,2024-07-19,Medium
+FAC01268,Delhi,Hospital,10,3.5,3.4,2,234,23.8,2024-01-20,Low
+FAC01378,Bangalore,Public Toilet,3.5,,4.3,7,217,9.8,2024-01-20,Medium
+FAC01129,Bangalore,Railway Station,7.3,5.3,3.6,2,44,23.3,2024-08-25,Low
+FAC01403,Delhi,Public Toilet,6.0,3.8,1.6,6,532,25.3,2024-05-27,Low
+FAC00076,Chennai,Railway Station,7.0,5.3,4.9,1,204,8.4,2024-09-30,Low
+FAC00943,Pune,Market,8.9,6.0,5.7,4,47,27.4,2024-04-05,Medium
+FAC00561,Chennai,Bus Stand,5.1,6.6,2.9,6,519,16.1,2024-09-08,Medium
+FAC01178,Pune,Railway Station,9.1,2.9,4.7,4,620,15.2,2024-07-17,Low
+FAC01352,Chennai,Market,2.5,1.7,5.0,5,357,18.8,2024-03-13,High
+FAC00983,Delhi,Public Toilet,7.8,5.2,3.7,4,226,20.0,2024-12-17,Low
+FAC00585,Chennai,Railway Station,2.5,7.9,0.5,5,386,17.7,2024-02-13,High
+FAC00408,Delhi,Bus Stand,7.4,8.2,4.7,2,286,22.0,2024-01-23,Medium
+FAC01092,Delhi,Public Toilet,6.3,6.6,5.1,3,359,26.2,2024-04-20,Medium
+FAC01275,Kolkata,Public Toilet,8.3,7.5,4.4,5,356,6.8,2024-01-10,Medium
+FAC00014,Kolkata,Bus Stand,4.0,10,3.3,1,239,13.6,2024-04-27,High
+FAC01490,Delhi,Railway Station,5.0,7.9,7.4,4,350,8.4,2024-11-15,High
+FAC00584,Kolkata,Hospital,7.6,5.4,3.7,7,413,17.9,2024-03-07,Low
+FAC00499,Bangalore,Market,6.4,3.7,5.4,7,550,11.6,2024-12-18,Medium
+FAC00418,Pune,Park,7.8,6.2,2.2,4,520,6.6,2024-01-20,Low
+FAC00061,Delhi,Railway Station,3.3,8.4,3.8,7,132,18.5,2024-11-16,High
+FAC01459,Pune,Railway Station,5.5,4.4,1.8,0,542,8.4,2024-05-07,Low
+FAC01160,Kolkata,Railway Station,4.4,6.1,5.1,6,353,30.1,2024-05-23,High
+FAC00398,Chennai,Hospital,7.7,6.9,5.5,4,431,14.5,2024-07-09,Medium
+FAC00371,Mumbai,Hospital,7.7,5.7,5.8,4,598,13.7,2024-09-22,Medium
+FAC00982,Delhi,Bus Stand,6.2,2.1,3.8,6,290,20.3,2024-05-19,Low
+FAC00151,Bangalore,Public Toilet,2.4,5.5,3.3,1,18,10.5,2024-07-25,Medium
+FAC00349,Mumbai,Hospital,6.6,3.1,6.9,6,433,17.2,2024-11-16,Medium
+FAC00581,Mumbai,Railway Station,9.3,7.4,4.7,6,594,2.7,2024-07-27,Medium
+FAC00703,Bangalore,Public Toilet,4.4,3.4,6.5,2,215,,2024-11-30,Medium
+FAC01347,Mumbai,Public Toilet,5.7,7.6,3.3,0,388,11.3,2024-03-04,Low
+FAC00970,Bangalore,Park,7.0,3.4,2.8,4,327,8.1,2024-06-30,Low
+FAC01499,Mumbai,Public Toilet,9.0,4.0,3.2,3,349,15.9,2024-01-02,Low
+FAC00769,Kolkata,Railway Station,7.9,4.2,4.8,3,334,8.0,2024-04-03,Low
+FAC01383,Pune,Park,4.5,4.4,0.5,4,363,10.4,2024-01-20,Medium
+FAC00355,Bangalore,Market,7.6,8.0,2.6,7,418,5.7,2024-06-29,Medium
+FAC00368,Kolkata,Market,7.1,1.9,2.2,1,470,16.6,2024-08-29,Low
+FAC00559,Pune,Park,7.0,5.6,2.1,0,141,22.1,2024-02-09,Low
+FAC01356,Pune,Bus Stand,10,4.9,2.6,2,604,16.7,2024-10-05,Low
+FAC00914,Bangalore,Public Toilet,2.5,5.5,4.1,4,348,18.9,2024-10-04,High
+FAC00632,Chennai,Park,8.4,3.7,1.8,3,242,19.3,2024-12-31,Low
+FAC00631,Kolkata,Hospital,5.1,4.1,7.5,5,415,18.8,2024-10-24,Medium
+FAC01037,Chennai,Bus Stand,5.7,7.0,4.8,0,173,0,2024-04-08,Medium
+FAC01246,Chennai,Park,4.9,6.7,6.3,4,420,12.5,2024-03-18,High
+FAC00670,Delhi,Hospital,4.7,4.7,4.0,6,578,24.0,2024-11-23,Medium
+FAC00227,Kolkata,Public Toilet,3.7,6.2,5.3,3,191,13.4,2024-06-16,High
+FAC00097,Pune,Bus Stand,3.5,10,2.3,3,262,11.8,2024-10-09,High
+FAC00932,Kolkata,Bus Stand,6.5,5.0,5.0,5,124,13.1,2024-12-22,Low
+FAC00629,Bangalore,Hospital,8.0,5.8,4.1,0,669,31.7,2024-09-23,Low
+FAC00642,Chennai,Public Toilet,7.1,7.5,5.4,3,412,12.0,2024-10-23,Low
+FAC00308,Bangalore,Hospital,9.1,5.5,7.9,0,275,10.0,2024-02-21,Medium
+FAC00556,Mumbai,Bus Stand,7.5,7.0,3.8,3,713,4.0,2024-07-25,Low
+FAC00074,Pune,Bus Stand,7.7,5.2,1.5,7,201,17.7,2024-12-05,Low
+FAC01035,Chennai,Market,4.8,,1.7,3,525,22.7,2024-09-17,High
+FAC01073,Chennai,Park,8.1,2.6,7.5,9,75,3.9,2024-05-31,Medium
+FAC01346,Delhi,Railway Station,2.3,1.4,5.5,1,397,13.1,2024-08-17,High
+FAC00716,Chennai,Railway Station,8.1,5.0,1.6,4,180,9.7,2024-04-09,Low
+FAC00627,Pune,Market,8.5,3.4,7.0,0,262,20.8,2024-03-16,Low
+FAC00519,Pune,Market,5.8,,2.8,4,228,0,2024-03-11,Low
+FAC00047,Mumbai,Public Toilet,6.3,1.6,4.6,5,517,15.2,2024-11-29,Low
+FAC00439,Mumbai,Park,6.7,2.7,6.1,0,22,25.7,2024-12-26,Low
+FAC01088,Bangalore,Market,8.7,7.3,3.4,2,217,14.1,2024-06-28,Low
+FAC00900,Bangalore,Public Toilet,3.8,6.5,6.5,1,454,20.9,2024-10-03,High
+FAC00033,Mumbai,Park,4.9,4.3,5.1,0,398,13.6,2024-08-11,Medium
+FAC00961,Chennai,Bus Stand,5.7,3.6,4.7,2,318,9.2,2024-08-05,Low
+FAC01270,Chennai,Park,7.2,3.1,2.5,5,592,9.8,2024-01-27,Low
+FAC00357,Mumbai,Bus Stand,6.1,4.4,5.1,9,285,5.0,2024-07-29,Medium
+FAC00285,Kolkata,Bus Stand,6.0,2.7,6.5,5,460,9.8,2024-01-29,Medium
+FAC01426,Delhi,Park,6.6,5.6,2.6,2,0,11.2,2024-03-09,Low
+FAC01300,Kolkata,Park,6.6,6.3,3.4,8,317,28.5,2024-11-04,Medium
+FAC01485,Mumbai,Hospital,5.9,6.4,1.3,2,0,13.6,2024-01-25,Low
+FAC00919,Delhi,Market,5.3,8.2,6.7,0,291,14.5,2024-10-11,Low
+FAC00707,Bangalore,Market,6.2,5.1,8.1,4,403,18.1,2024-03-11,Medium
+FAC01083,Chennai,Hospital,3.5,3.5,7.2,2,521,23.1,2024-08-03,High
+FAC01232,Pune,Bus Stand,7.3,4.1,5.9,2,246,23.0,2024-12-01,Low
+FAC00739,Pune,Hospital,5.4,4.4,3.2,11,592,19.3,2024-04-25,Medium
+FAC01500,Chennai,Hospital,5.6,3.6,3.7,4,480,8.9,2024-12-12,Low
+FAC00312,Kolkata,Public Toilet,5.5,0,5.1,2,475,9.1,2024-07-02,Low
+FAC01376,Chennai,Park,5.9,4.6,1.3,7,135,24.3,2024-05-15,Low
+FAC00222,Bangalore,Public Toilet,7.1,3.7,4.9,3,281,4.1,2024-05-06,Low
+FAC01165,Bangalore,Bus Stand,6.1,6.1,6.5,1,199,13.8,2024-06-01,Medium
+FAC00694,Mumbai,Market,3.7,3.0,5.3,6,530,6.4,2024-10-18,Medium
+FAC00981,Pune,Bus Stand,6.0,5.1,4.7,4,204,7.2,2024-12-14,Low
+FAC00295,Pune,Park,8.7,3.7,0.5,3,496,0.2,2024-05-12,Low
+FAC00403,Mumbai,Public Toilet,3.8,3.9,4.1,2,335,8.0,2024-11-16,Medium
+FAC01007,Kolkata,Market,2.1,2.2,4.0,5,460,14.8,2024-08-23,Medium
+FAC01197,Mumbai,Bus Stand,9.7,2.1,1.9,0,20,28.1,2024-02-17,Low
+FAC00050,Mumbai,Railway Station,7.1,7.9,5.4,2,275,7.6,2024-10-16,Medium
+FAC01203,Pune,Park,9.9,9.5,4.2,3,35,14.3,2024-07-07,Medium
+FAC00850,Mumbai,Public Toilet,5.5,6.0,5.4,1,367,19.5,2024-06-09,Medium
+FAC00770,Bangalore,Public Toilet,7.9,6.8,5.3,2,216,20.8,2024-04-07,Medium
+FAC01090,Bangalore,Market,4.0,7.2,4.9,5,52,4.5,2024-09-29,High
+FAC01172,Kolkata,Railway Station,4.8,3.4,8.4,5,327,16.3,2024-03-11,High
+FAC01328,Chennai,Railway Station,6.3,4.3,3.9,0,251,15.6,2024-01-21,Low
+FAC00029,Chennai,Public Toilet,6.3,6.3,5.4,0,134,20.2,2024-03-31,Medium
+FAC00660,Pune,Market,6.5,7.0,2.6,5,425,14.2,2024-04-25,Medium
+FAC01077,Chennai,Railway Station,3.6,6.4,4.6,3,422,18.6,2024-12-04,High
+FAC01042,Kolkata,Park,3.3,5.8,0,5,545,17.3,2024-05-23,High
+FAC01414,Delhi,Market,6.8,6.5,5.2,4,327,31.2,2024-02-27,Medium
+FAC00761,Mumbai,Public Toilet,3.3,5.0,5.9,3,275,11.4,2024-11-20,High
+FAC00726,Mumbai,Railway Station,6.4,2.7,3.0,7,243,19.8,2024-11-08,Low
+FAC00725,Chennai,Market,5.8,10,2.7,0,426,15.4,2024-05-16,Medium
+FAC01271,Mumbai,Hospital,6.9,8.3,4.4,5,365,38.0,2024-04-12,Medium
+FAC01219,Bangalore,Park,9.7,4.6,4.8,3,459,31.3,2024-10-25,Low
+FAC00265,Kolkata,Public Toilet,8.8,5.8,7.7,1,500,0.9,2024-07-21,Medium
+FAC00392,Kolkata,Hospital,8.5,4.4,8.0,9,112,11.4,2024-08-10,Medium
+FAC00908,Mumbai,Public Toilet,5.1,,4.5,0,375,4.0,2024-01-30,Low
+FAC01081,Chennai,Hospital,4.3,5.3,7.7,0,384,15.8,2024-10-29,High
+FAC01009,Pune,Park,5.4,2.6,4.6,4,571,0,2024-04-16,Low
+FAC01299,Mumbai,Market,7.0,3.1,5.6,7,230,13.2,2024-06-23,High
+FAC00579,Delhi,Railway Station,5.5,1.8,10,5,78,4.5,2024-12-09,High
+FAC00898,Bangalore,Bus Stand,4.0,4.0,3.9,2,444,0,2024-02-06,Medium
+FAC00066,Delhi,Park,6.0,5.2,5.0,0,79,7.7,2024-05-22,Low
+FAC00696,Mumbai,Market,8.7,5.3,5.4,3,535,22.4,2024-09-16,Medium
+FAC00902,Mumbai,Railway Station,8.3,4.4,4.0,4,294,10.3,2024-01-16,Low
+FAC00532,Pune,Bus Stand,10,3.9,7.7,10,137,11.3,2024-10-20,Medium
+FAC00711,Kolkata,Public Toilet,7.4,6.0,3.8,2,339,17.4,2024-04-30,Low
+FAC01093,Kolkata,Market,4.9,10,6.1,1,130,17.8,2024-09-22,High
+FAC00440,Mumbai,Bus Stand,7.9,6.8,7.7,0,325,23.9,2024-11-18,Medium
+FAC01141,Bangalore,Public Toilet,5.9,7.8,6.7,2,363,12.5,2024-08-09,High
+FAC00228,Delhi,Market,8.8,2.6,9.3,8,156,4.7,2024-08-07,Medium
+FAC00655,Delhi,Market,5.0,5.9,6.3,4,452,10.4,2024-04-23,Medium
+FAC01343,Chennai,Market,8.9,7.3,1.0,6,675,6.8,2024-07-03,Medium
+FAC00104,Kolkata,Market,4.3,9.7,1.0,0,469,25.1,2024-09-05,Low
+FAC00856,Mumbai,Bus Stand,4.0,7.3,0.7,5,399,13.2,2024-01-25,High
+FAC00324,Bangalore,Market,4.9,3.1,2.7,9,128,19.4,2024-06-24,Medium
+FAC00022,Pune,Railway Station,8.6,4.5,4.1,3,523,19.8,2024-12-08,Low
+FAC00122,Delhi,Railway Station,3.2,9.0,6.9,3,288,21.7,2024-11-05,High
+FAC00732,Delhi,Hospital,7.1,8.6,4.1,2,87,19.0,2024-05-23,Medium
+FAC01199,Pune,Park,5.7,4.8,3.5,0,302,12.3,2024-05-20,Low
+FAC01348,Kolkata,Bus Stand,5.3,3.5,3.6,0,466,16.3,2024-05-26,Low
+FAC01456,Bangalore,Public Toilet,2.7,7.4,6.6,7,21,26.0,2024-01-26,High
+FAC00277,Kolkata,Hospital,5.9,4.7,3.1,7,529,12.0,2024-08-02,Medium
+FAC01185,Kolkata,Market,6.1,4.1,4.3,8,420,12.8,2024-01-23,Low
+FAC00002,Pune,Market,6.6,8.1,1.5,2,269,6.0,2024-03-22,Medium
+FAC01067,Chennai,Market,3.9,2.6,4.8,7,502,14.7,2024-10-22,Medium
+FAC01080,Bangalore,Hospital,6.5,9.3,1.3,4,270,15.1,2024-05-21,Medium
+FAC00549,Kolkata,Bus Stand,6.5,5.9,3.1,0,0,17.4,2024-03-04,Medium
+FAC01216,Pune,Park,6.1,7.5,2.7,0,387,11.2,2024-07-04,Medium
+FAC01390,Chennai,Hospital,5.9,3.5,7.6,4,0,,2024-06-13,Medium
+FAC01371,Delhi,Railway Station,6.9,6.5,5.8,4,475,19.1,2024-11-17,Medium
+FAC01114,Mumbai,Public Toilet,5.0,1.2,8.8,8,516,6.1,2024-11-09,Low
+FAC00049,Chennai,Hospital,3.8,3.3,7.5,7,394,13.2,2024-07-11,Medium
+FAC00345,Kolkata,Market,9.4,3.2,5.4,5,229,9.9,2024-01-28,Low
+FAC01119,Mumbai,Public Toilet,5.2,5.1,4.3,0,266,2.0,2024-05-13,Low
+FAC00111,Pune,Hospital,6.5,2.5,6.2,8,52,14.5,2024-10-16,Medium
+FAC00797,Mumbai,Railway Station,5.1,2.5,6.6,1,433,13.7,2024-06-19,Medium
+FAC00912,Pune,Market,6.6,6.4,6.1,3,314,8.5,2024-04-30,Medium
+FAC00605,Chennai,Railway Station,4.7,5.1,0.4,6,230,14.6,2024-09-24,Medium
+FAC00673,Delhi,Market,6.6,6.9,6.5,9,322,19.3,2024-12-12,High
+FAC00292,Bangalore,Bus Stand,5.1,4.3,5.2,4,548,13.2,2024-11-29,Medium
+FAC00040,Kolkata,Hospital,7.7,5.9,5.9,1,395,2.7,2024-08-14,Low
+FAC00195,Kolkata,Public Toilet,4.6,7.1,4.9,4,409,22.3,2024-02-18,High
+FAC00795,Mumbai,Park,9.0,3.1,3.8,7,327,24.0,2024-01-23,Low
+FAC01040,Mumbai,Railway Station,4.2,8.3,8.1,3,567,15.5,2024-07-10,High
+FAC00948,Chennai,Market,5.1,6.2,4.0,7,535,5.1,2024-07-19,Medium
+FAC01422,Mumbai,Public Toilet,4.2,3.0,5.5,5,563,0.5,2024-03-12,Medium
+FAC00171,Pune,Park,9.4,8.4,3.8,7,336,18.2,2024-07-31,Medium
+FAC00205,Pune,Bus Stand,7.3,3.8,6.1,1,49,20.3,2024-11-04,Low
+FAC00479,Kolkata,Market,7.3,7.9,1.0,1,335,23.4,2024-01-20,Medium
+FAC00209,Kolkata,Hospital,8.5,5.3,2.6,6,535,8.1,2024-10-01,Low
+FAC00057,Delhi,Railway Station,3.2,4.6,5.2,5,64,15.3,2024-02-21,Medium
+FAC01468,Bangalore,Park,8.2,5.4,5.2,2,296,22.6,2024-04-25,Low
+FAC01011,Kolkata,Railway Station,6.1,0,2.8,6,38,27.5,2024-02-26,Low
+FAC00088,Mumbai,Public Toilet,6.4,6.1,6.7,0,267,21.8,2024-09-09,Medium
+FAC00220,Mumbai,Bus Stand,6.9,7.3,1.8,2,163,19.0,2024-10-16,Low
+FAC00665,Kolkata,Bus Stand,8.2,5.5,5.8,0,213,9.0,2024-06-17,Low
+FAC00683,Chennai,Park,10,5.3,4.7,0,337,13.5,2024-07-25,Low
+FAC00070,Chennai,Public Toilet,10.0,9.1,3.4,2,430,22.5,2024-02-28,Medium
+FAC00020,Mumbai,Public Toilet,10,3.7,1.5,2,395,19.5,2024-06-09,Low
+FAC01244,Kolkata,Public Toilet,6.2,6.0,3.5,3,148,17.5,2024-10-16,Low
+FAC00422,Kolkata,Hospital,6.1,7.4,1.6,5,333,4.9,2024-10-14,Medium
+FAC01395,Chennai,Public Toilet,6.5,4.2,2.7,6,566,13.8,2024-03-08,Low
+FAC00814,Pune,Bus Stand,3.1,3.4,4.3,5,0,17.8,2024-12-14,Medium
+FAC01373,Chennai,Hospital,6.3,6.4,2.0,3,483,13.8,2024-01-12,Medium
+FAC00164,Bangalore,Railway Station,6.3,5.2,0.0,1,8,24.3,2024-05-27,Low
+FAC00722,Kolkata,Public Toilet,9.0,6.7,1.6,3,309,9.1,2024-04-03,Low
+FAC01334,Pune,Bus Stand,8.4,6.9,1.3,3,366,4.2,2024-11-19,Low
+FAC00920,Delhi,Bus Stand,10,7.1,4.1,8,297,16.7,2024-09-10,Medium
+FAC01146,Mumbai,Park,9.7,5.7,6.6,0,444,23.3,2024-12-06,Medium
+FAC00806,Chennai,Hospital,6.3,5.7,5.7,1,337,5.0,2024-08-28,Medium
+FAC00103,Bangalore,Hospital,4.5,4.6,6.5,7,580,16.5,2024-07-08,High
+FAC00567,Kolkata,Bus Stand,2.8,5.5,4.0,2,190,34.1,2024-02-08,High
+FAC00910,Kolkata,Railway Station,10,7.6,5.5,8,452,0,2024-07-06,Medium
+FAC00913,Kolkata,Market,5.1,3.6,6.5,6,446,15.4,2024-05-22,Medium
+FAC01264,Delhi,Hospital,7.1,4.5,4.6,5,422,8.9,2024-05-22,Low
+FAC01301,Delhi,Market,5.1,6.9,1.5,0,177,28.1,2024-09-09,Medium
+FAC00678,Delhi,Bus Stand,5.5,7.1,3.5,0,193,14.2,2024-01-19,Medium
+FAC01477,Mumbai,Public Toilet,6.5,8.9,4.5,7,257,16.9,2024-05-28,Medium
+FAC01107,Kolkata,Market,5.3,3.0,5.1,5,352,18.4,2024-12-03,Medium
+FAC01309,Delhi,Public Toilet,10,7.1,4.3,4,180,21.0,2024-03-21,Medium
+FAC00832,Kolkata,Public Toilet,4.5,5.9,3.4,3,199,16.6,2024-12-25,Medium
+FAC00611,Bangalore,Market,5.9,4.2,7.0,4,392,18.7,2024-02-14,Medium
+FAC00784,Kolkata,Railway Station,6.2,3.4,2.9,0,414,13.1,2024-07-24,Low
+FAC00467,Delhi,Hospital,3.5,6.2,4.0,0,333,19.7,2024-07-19,Medium
+FAC00652,Mumbai,Public Toilet,6.4,10,3.3,6,296,,2024-08-31,High
+FAC01306,Pune,Park,4.9,5.4,4.6,3,196,0,2024-02-19,Medium
+FAC00622,Delhi,Hospital,5.2,5.3,5.6,5,153,23.9,2024-02-20,Medium
+FAC01121,Pune,Park,6.9,4.3,4.9,0,331,25.0,2024-01-22,Low
+FAC01470,Pune,Public Toilet,4.8,3.9,6.5,2,190,29.6,2024-06-09,Medium
+FAC01256,Kolkata,Public Toilet,8.9,3.9,4.1,2,389,19.9,2024-01-21,Low
+FAC01317,Kolkata,Public Toilet,6.6,1.9,5.1,0,486,4.3,2024-11-22,Low
+FAC00614,Kolkata,Public Toilet,6.8,5.4,2.6,6,260,0,2024-02-01,Low
+FAC00515,Mumbai,Market,7.1,7.0,6.8,1,376,2.9,2024-04-27,Medium
+FAC00449,Bangalore,Railway Station,5.1,3.0,3.6,0,343,9.1,2024-02-17,Low
+FAC01406,Bangalore,Hospital,7.4,5.6,2.1,4,470,18.6,2024-06-13,Low
+FAC00397,Bangalore,Railway Station,7.9,6.8,1.5,5,179,14.4,2024-02-22,Low
+FAC00918,Mumbai,Public Toilet,9.6,5.4,3.8,7,444,15.5,2024-11-07,Low
+FAC00880,Pune,Bus Stand,3.0,8.0,8.3,0,239,11.2,2024-03-12,High
+FAC00080,Bangalore,Hospital,4.9,3.7,2.4,0,191,15.4,2024-10-27,Low
+FAC01283,Mumbai,Railway Station,7.4,3.9,6.0,5,151,28.5,2024-04-28,Low
+FAC01118,Mumbai,Bus Stand,9.2,5.6,8.1,5,488,22.9,2024-09-07,Low
+FAC00560,Chennai,Public Toilet,6.7,1.9,5.5,8,195,14.4,2024-01-17,Low
+FAC00831,Mumbai,Bus Stand,6.7,4.5,0,4,192,17.8,2024-06-20,Low
+FAC00124,Mumbai,Railway Station,6.7,4.6,7.9,1,596,1.8,2024-07-16,Medium
+FAC01086,Pune,Railway Station,7.7,5.2,4.0,4,0,20.4,2024-10-07,Low
+FAC00862,Delhi,Railway Station,7.6,2.3,2.8,3,556,9.7,2024-03-07,Low
+FAC00311,Delhi,Hospital,7.1,7.2,6.2,3,85,24.3,2024-02-27,Medium
+FAC00691,Kolkata,Park,3.6,7.0,1.1,8,407,29.6,2024-03-22,High
+FAC00496,Kolkata,Public Toilet,5.8,2.0,7.0,4,316,13.7,2024-07-19,Medium
+FAC01074,Kolkata,Public Toilet,10,4.7,3.5,4,323,13.9,2024-11-09,Low
+FAC00525,Bangalore,Public Toilet,4.4,7.6,2.6,0,396,10.5,2024-04-01,Medium
+FAC01449,Mumbai,Hospital,6.4,6.0,0.2,5,362,10.9,2024-12-03,Medium
+FAC00738,Kolkata,Market,8.0,7.7,5.6,0,208,10.0,2024-12-27,Medium
+FAC01162,Mumbai,Market,2.6,3.8,2.9,9,252,17.0,2024-05-16,High
+FAC01323,Kolkata,Market,7.7,2.2,4.2,4,270,3.1,2024-11-10,Low
+FAC01349,Kolkata,Park,9.1,4.1,3.1,4,377,6.4,2024-08-03,Low
+FAC00141,Kolkata,Market,6.4,5.0,2.7,3,387,4.4,2024-09-02,Low
+FAC00376,Pune,Hospital,5.9,7.4,4.6,1,225,12.3,2024-04-03,Medium
+FAC00455,Mumbai,Hospital,5.6,3.7,4.1,0,417,14.9,2024-08-30,Low
+FAC00826,Pune,Market,9.7,7.8,2.7,8,395,20.4,2024-03-23,Medium
+FAC01150,Bangalore,Hospital,8.2,2.7,4.9,6,389,8.2,2024-05-08,Low
+FAC00721,Mumbai,Public Toilet,3.3,,5.3,1,386,26.9,2024-09-08,Medium
+FAC00315,Pune,Bus Stand,3.5,6.7,1.5,4,262,10.5,2024-01-06,High
+FAC01285,Kolkata,Public Toilet,7.9,6.6,6.2,2,370,11.5,2024-02-18,Medium
+FAC00681,Delhi,Public Toilet,5.4,6.2,4.9,8,277,16.6,2024-05-21,Medium
+FAC00529,Bangalore,Bus Stand,6.6,7.3,3.6,9,398,19.3,2024-10-01,Medium
+FAC00073,Bangalore,Bus Stand,5.5,7.9,7.0,3,438,22.0,2024-08-21,High
+FAC00145,Mumbai,Public Toilet,8.5,9.6,6.3,7,279,3.3,2024-01-15,High
+FAC01179,Kolkata,Public Toilet,4.5,5.9,4.7,0,106,15.3,2024-02-09,Medium
+FAC00170,Bangalore,Hospital,6.3,5.1,2.8,0,394,15.5,2024-12-26,Low
+FAC01103,Mumbai,Hospital,5.2,,7.6,3,177,25.3,2024-10-12,High
+FAC00637,Bangalore,Railway Station,5.7,7.8,5.9,5,225,18.7,2024-01-25,Low
+FAC01405,Chennai,Railway Station,4.4,3.4,7.8,5,465,7.6,2024-10-10,High
+FAC00972,Delhi,Park,7.0,2.4,2.5,2,299,15.5,2024-08-05,Low
+FAC01278,Bangalore,Hospital,4.3,4.6,3.7,6,355,,2024-12-06,Medium
+FAC01055,Chennai,Hospital,6.8,7.3,5.0,2,480,29.8,2024-03-02,Medium
+FAC00181,Pune,Bus Stand,6.8,1.7,5.0,10,513,13.1,2024-10-29,Medium
+FAC01182,Delhi,Public Toilet,5.9,10.0,7.5,0,420,31.2,2024-08-31,High
+FAC00237,Bangalore,Railway Station,6.1,6.0,8.8,0,241,14.1,2024-01-07,Medium
+FAC01380,Mumbai,Hospital,7.6,4.2,4.4,0,161,5.6,2024-08-22,Low
+FAC01453,Mumbai,Park,6.4,3.2,6.0,2,0,12.5,2024-08-12,Low
+FAC00527,Kolkata,Railway Station,5.1,7.2,3.5,2,619,20.2,2024-07-29,Medium
+FAC00270,Mumbai,Market,7.0,2.3,6.8,4,235,16.3,2024-07-11,Low
+FAC00706,Kolkata,Park,7.8,8.4,2.4,0,289,11.4,2024-04-29,High
+FAC00845,Delhi,Bus Stand,7.4,4.8,5.0,4,228,13.7,2024-06-16,Low
+FAC00437,Delhi,Hospital,5.6,4.4,2.8,6,379,18.9,2024-07-30,Medium
+FAC01174,Kolkata,Public Toilet,7.6,5.7,2.7,4,609,22.0,2024-03-18,Low
+FAC01385,Bangalore,Railway Station,6.1,3.6,4.0,4,274,9.7,2024-07-10,Low
+FAC00847,Bangalore,Bus Stand,10,3.9,4.6,5,464,3.5,2024-10-27,Low
+FAC00960,Mumbai,Market,7.0,3.0,3.4,8,210,25.3,2024-02-11,Low
+FAC01069,Mumbai,Park,7.1,3.2,1.6,2,247,7.6,2024-11-24,Low
+FAC01399,Mumbai,Public Toilet,6.7,6.3,9.1,2,606,11.0,2024-01-04,High
+FAC01304,Mumbai,Market,9.4,2.7,8.6,7,265,11.7,2024-05-03,Medium
+FAC00465,Bangalore,Railway Station,8.1,6.0,6.4,5,225,0,2024-07-01,Medium
+FAC00601,Chennai,Public Toilet,8.5,2.7,3.8,9,312,3.9,2024-05-02,Low
+FAC00671,Bangalore,Public Toilet,6.6,8.2,4.8,8,457,11.9,2024-01-04,Medium
+FAC01410,Mumbai,Hospital,9.0,9.5,5.8,2,236,16.6,2024-10-26,Medium
+FAC00640,Pune,Public Toilet,5.0,4.0,6.1,2,548,17.4,2024-03-25,Medium
+FAC01176,Pune,Bus Stand,7.4,6.5,7.4,4,208,6.2,2024-02-24,Medium
+FAC01033,Kolkata,Market,5.0,4.4,6.8,4,531,6.8,2024-11-21,Medium
+FAC01430,Bangalore,Public Toilet,8.8,3.2,10,5,471,10.4,2024-09-10,Medium
+FAC00526,Delhi,Market,7.5,6.4,3.8,0,457,7.1,2024-10-04,Low
+FAC00991,Bangalore,Public Toilet,5.6,4.3,5.4,6,446,28.5,2024-10-11,Medium
+FAC00010,Kolkata,Bus Stand,5.9,4.5,7.2,0,337,,2024-05-14,Medium
+FAC01345,Pune,Bus Stand,7.7,4.3,5.6,0,404,23.5,2024-10-14,Low
+FAC00643,Chennai,Railway Station,7.2,2.8,4.1,4,342,12.7,2024-06-11,Low
+FAC00882,Mumbai,Market,3.4,4.9,1.4,3,226,19.8,2024-10-13,Medium
+FAC00146,Chennai,Bus Stand,9.4,4.3,4.5,6,120,9.1,2024-06-03,High
+FAC00947,Chennai,Park,5.0,8.0,6.4,6,287,17.6,2024-09-04,High
+FAC00068,Pune,Park,9.6,4.2,2.4,2,264,20.5,2024-01-01,Low
+FAC01370,Pune,Park,6.2,6.0,1.6,5,399,7.0,2024-09-12,Medium
+FAC00409,Mumbai,Railway Station,7.2,4.4,3.6,4,45,7.4,2024-05-11,Low
+FAC01413,Chennai,Public Toilet,5.0,4.7,4.5,9,354,3.1,2024-10-25,Medium
+FAC01364,Chennai,Market,5.8,2.0,3.7,4,340,15.2,2024-11-16,Low
+FAC01296,Pune,Market,3.5,6.4,4.2,7,246,,2024-04-30,High
+FAC00903,Delhi,Market,5.2,6.0,5.2,3,403,28.1,2024-02-01,Medium
+FAC00466,Chennai,Public Toilet,7.5,2.5,3.4,0,584,11.8,2024-12-23,Low
+FAC00743,Chennai,Market,7.3,4.6,5.1,2,231,7.8,2024-03-16,Low
+FAC00090,Bangalore,Park,7.6,3.0,6.2,3,278,8.8,2024-12-17,Low
+FAC00166,Bangalore,Market,6.6,4.2,4.6,0,309,16.1,2024-06-20,Low
+FAC00876,Bangalore,Park,8.7,7.9,1.2,1,275,17.2,2024-09-24,High
+FAC00381,Delhi,Market,7.8,6.5,5.5,2,309,20.3,2024-08-05,Medium
+FAC00646,Chennai,Hospital,6.3,2.7,1.1,4,260,16.6,2024-01-15,Medium
+FAC00177,Mumbai,Public Toilet,5.2,2.7,1.6,2,262,18.1,2024-04-24,Low
+FAC00224,Pune,Railway Station,5.5,4.5,5.5,5,334,16.7,2024-06-14,Medium
+FAC00950,Bangalore,Railway Station,6.5,,7.4,3,457,21.2,2024-12-26,Medium
+FAC00365,Chennai,Park,6.5,5.6,2.8,0,258,20.9,2024-10-01,Low
+FAC00003,Kolkata,Public Toilet,5.7,6.4,6.4,3,380,16.0,2024-08-23,Medium
+FAC00762,Pune,Park,5.7,0.6,5.0,4,311,3.8,2024-08-05,Low
+FAC01273,Mumbai,Public Toilet,7.4,4.6,5.1,5,445,11.1,2024-03-20,Low
+FAC00238,Mumbai,Railway Station,8.8,8.3,2.8,2,209,,2024-02-04,Low
+FAC00188,Bangalore,Bus Stand,6.1,6.0,6.9,0,522,15.0,2024-04-10,Medium
+FAC01229,Bangalore,Railway Station,9.1,6.6,7.3,4,299,15.3,2024-08-11,Medium
+FAC01152,Pune,Public Toilet,4.4,1.6,0,6,256,7.8,2024-11-06,Medium
+FAC00720,Mumbai,Hospital,7.3,7.2,3.7,0,0,10.5,2024-02-15,Low
+FAC00121,Chennai,Bus Stand,4.5,6.2,3.9,2,196,16.3,2024-06-07,Medium
+FAC00135,Kolkata,Hospital,10,6.5,0.1,12,251,36.1,2024-07-05,Medium
+FAC00987,Chennai,Park,4.6,5.7,5.7,2,260,17.7,2024-11-11,Medium
+FAC00013,Delhi,Hospital,6.4,4.4,2.0,4,289,30.2,2024-12-19,Low
+FAC00765,Delhi,Railway Station,4.5,1.7,3.1,3,592,21.0,2024-07-13,Medium
+FAC01111,Pune,Public Toilet,4.7,7.0,2.8,4,162,14.8,2024-12-16,Medium
+FAC00798,Pune,Railway Station,10,3.3,6.9,1,405,22.8,2024-12-07,Low
+FAC01374,Chennai,Park,3.7,3.7,1.7,5,495,13.7,2024-04-30,Medium
+FAC01407,Pune,Market,8.7,5.0,4.5,5,437,22.6,2024-12-08,Low
+FAC00280,Kolkata,Market,9.0,5.4,5.4,1,620,4.6,2024-05-21,Medium
+FAC01434,Bangalore,Market,4.6,7.3,4.9,1,252,29.0,2024-03-11,High
+FAC00493,Bangalore,Bus Stand,6.3,7.6,7.4,2,433,11.0,2024-06-14,High
+FAC00927,Kolkata,Railway Station,6.1,2.9,7.7,8,385,3.6,2024-04-09,Medium
+FAC00537,Bangalore,Public Toilet,7.9,8.2,7.3,1,59,21.8,2024-09-25,Medium
+FAC00330,Mumbai,Public Toilet,7.0,1.9,3.9,8,461,10.5,2024-10-09,Low
+FAC00375,Bangalore,Bus Stand,6.2,7.4,5.0,1,233,0.3,2024-12-24,Medium
+FAC01059,Delhi,Park,5.2,2.2,8.1,6,477,5.2,2024-03-29,Medium
+FAC01384,Chennai,Market,5.3,7.6,3.5,5,236,9.8,2024-07-03,Medium
+FAC00995,Chennai,Public Toilet,6.6,7.7,6.3,4,451,18.3,2024-12-11,Medium
+FAC00183,Kolkata,Park,7.3,7.7,4.7,6,375,10.5,2024-08-01,Medium
+FAC00120,Delhi,Hospital,8.3,1.8,6.4,4,328,9.8,2024-11-15,Low
+FAC00011,Mumbai,Park,5.4,5.4,1.8,0,213,13.7,2024-09-28,Low
+FAC00574,Mumbai,Public Toilet,6.0,5.0,5.2,5,304,28.4,2024-09-05,Medium
+FAC00672,Bangalore,Bus Stand,6.7,5.6,5.9,5,392,24.0,2024-04-11,Medium
+FAC01252,Delhi,Market,5.9,6.1,5.9,6,373,12.7,2024-08-09,Medium
+FAC01147,Delhi,Public Toilet,8.4,,5.7,8,381,15.7,2024-04-29,Medium
+FAC01305,Mumbai,Public Toilet,5.4,3.1,2.8,0,627,14.6,2024-06-18,Low
+FAC01031,Kolkata,Market,5.5,5.1,6.1,9,638,20.7,2024-10-26,High
+FAC00364,Kolkata,Park,5.0,6.1,5.1,0,506,,2024-01-04,Medium
+FAC00963,Bangalore,Market,4.5,9.2,3.4,3,259,25.8,2024-11-05,High
+FAC00571,Bangalore,Market,7.7,4.8,2.1,0,529,0.1,2024-04-12,Low
+FAC00279,Chennai,Bus Stand,9.1,9.3,0,6,374,18.8,2024-12-15,Medium
+FAC00433,Chennai,Bus Stand,5.1,5.0,6.3,6,418,0,2024-03-10,Medium
+FAC00352,Delhi,Hospital,4.4,2.1,5.6,0,416,22.3,2024-12-03,Medium
+FAC01392,Bangalore,Market,5.7,5.5,1.4,3,209,10.9,2024-06-15,Medium
+FAC00109,Pune,Public Toilet,7.1,4.2,2.4,2,210,18.2,2024-09-18,Low
+FAC00564,Pune,Railway Station,3.5,3.7,3.1,1,0,24.8,2024-04-30,Medium
+FAC00840,Delhi,Hospital,4.0,7.6,6.2,6,217,8.5,2024-10-01,High
+FAC00701,Bangalore,Bus Stand,6.5,5.5,5.1,0,459,10.6,2024-01-08,Low
+FAC00450,Chennai,Park,5.0,6.8,6.6,5,193,11.9,2024-09-26,High
+FAC00818,Pune,Bus Stand,8.6,6.5,4.1,4,276,5.4,2024-08-14,Low
+FAC00130,Delhi,Bus Stand,6.1,3.6,7.1,5,358,9.4,2024-11-19,Medium
+FAC00102,Delhi,Bus Stand,6.0,5.0,8.2,1,308,19.0,2024-01-04,Medium
+FAC00037,Pune,Railway Station,7.6,0.5,4.3,0,270,25.5,2024-04-30,Low
+FAC01177,Delhi,Park,7.1,7.9,4.5,0,166,0,2024-11-16,Low
+FAC00001,Mumbai,Bus Stand,6.0,5.1,4.4,6,299,2.0,2024-01-16,Low
+FAC01018,Delhi,Market,5.5,3.4,4.7,5,97,16.8,2024-03-22,Low
+FAC00752,Mumbai,Bus Stand,3.7,4.0,0,2,200,22.0,2024-05-01,Medium
+FAC01281,Mumbai,Park,6.7,4.9,2.9,11,400,18.7,2024-07-29,Medium
+FAC00290,Chennai,Railway Station,8.6,3.9,4.4,3,315,28.5,2024-08-04,Low
+FAC01184,Pune,Railway Station,4.8,6.6,6.8,4,223,15.1,2024-05-23,Low
+FAC00006,Delhi,Public Toilet,5.4,4.6,4.4,2,0,30.6,2024-01-29,Low
+FAC00259,Pune,Park,5.0,3.5,6.4,1,453,18.1,2024-05-07,Medium
+FAC01036,Delhi,Bus Stand,6.7,6.0,3.0,5,474,10.1,2024-02-25,Low
+FAC00892,Bangalore,Hospital,7.3,9.6,2.1,3,361,18.1,2024-03-12,Medium
+FAC01488,Kolkata,Market,7.9,4.2,5.4,8,172,4.5,2024-10-11,Low
+FAC00093,Mumbai,Railway Station,6.9,2.8,3.6,12,518,13.2,2024-03-08,Low
+FAC00996,Chennai,Public Toilet,6.0,10,5.5,6,244,13.6,2024-12-01,High
+FAC01493,Pune,Hospital,6.9,4.2,2.7,3,519,18.4,2024-01-08,Low
+FAC00602,Pune,Park,7.6,5.6,3.0,5,80,0,2024-06-07,Low
+FAC00710,Mumbai,Market,8.6,3.8,4.6,8,278,3.3,2024-01-04,Low
+FAC01342,Kolkata,Hospital,1.9,4.3,6.5,4,601,15.9,2024-01-24,High
+FAC00216,Chennai,Park,9.4,7.8,5.3,6,199,15.6,2024-11-01,Medium
+FAC00271,Bangalore,Bus Stand,6.9,2.9,4.7,1,46,18.3,2024-02-07,Low
+FAC01307,Mumbai,Hospital,7.8,5.6,5.2,5,299,1.0,2024-08-23,Low
+FAC00751,Chennai,Bus Stand,4.8,10,7.3,11,254,8.9,2024-09-30,High
+FAC00542,Chennai,Hospital,6.3,5.0,4.4,7,428,21.1,2024-07-03,Medium
+FAC00110,Kolkata,Bus Stand,5.1,5.1,4.9,1,542,11.0,2024-03-29,Medium
+FAC00921,Kolkata,Hospital,5.6,4.6,4.1,3,353,15.5,2024-01-22,Low
+FAC01319,Kolkata,Hospital,7.3,6.9,3.8,5,517,8.1,2024-03-16,Medium
+FAC01204,Kolkata,Bus Stand,8.0,6.8,4.1,7,268,15.4,2024-07-24,Medium
+FAC01050,Chennai,Public Toilet,7.3,7.8,1.1,5,294,0,2024-11-15,Medium
+FAC00685,Chennai,Market,7.0,2.1,4.2,0,356,7.3,2024-04-17,Low
+FAC00978,Delhi,Hospital,8.4,3.9,7.0,2,471,11.0,2024-09-13,Low
+FAC01236,Chennai,Hospital,3.4,6.3,4.3,2,283,12.5,2024-09-27,Medium
+FAC01402,Pune,Market,4.5,5.1,0,0,132,14.6,2024-08-17,Medium
+FAC00334,Kolkata,Bus Stand,4.2,3.4,1.9,4,144,24.9,2024-02-04,Medium
+FAC00363,Kolkata,Public Toilet,4.5,5.1,7.1,4,357,28.3,2024-12-22,High
+FAC00546,Chennai,Railway Station,7.4,3.3,2.0,3,323,10.1,2024-01-09,Low
+FAC01443,Pune,Hospital,9.4,6.2,4.5,6,343,3.9,2024-12-28,Low
+FAC01325,Delhi,Park,7.3,4.3,0.3,2,545,7.3,2024-11-25,Low
+FAC00825,Delhi,Public Toilet,6.3,6.6,5.7,5,603,22.0,2024-05-12,Medium
+FAC01213,Kolkata,Park,2.9,2.6,6.1,1,51,15.0,2024-12-15,Medium
+FAC01247,Pune,Market,1.0,2.9,6.2,12,342,15.9,2024-03-25,High
+FAC01437,Delhi,Public Toilet,8.3,7.1,5.3,2,288,16.4,2024-02-22,Medium
+FAC00575,Delhi,Public Toilet,6.8,4.8,1.2,0,452,9.2,2024-03-12,Low
+FAC00297,Pune,Market,4.5,4.3,5.1,4,179,6.1,2024-03-02,Medium
+FAC01130,Bangalore,Market,5.4,7.2,4.4,1,341,19.1,2024-11-12,Medium
+FAC01424,Chennai,Market,4.6,8.1,2.4,3,323,32.2,2024-04-08,High
+FAC00198,Delhi,Public Toilet,5.3,3.2,2.0,7,381,2.2,2024-08-11,High
+FAC01448,Delhi,Public Toilet,10,1.9,4.3,4,235,0,2024-12-04,Low
+FAC00379,Kolkata,Public Toilet,7.8,3.7,9.3,3,298,19.6,2024-09-01,Medium
+FAC01234,Kolkata,Public Toilet,7.8,,4.8,0,532,29.2,2024-05-19,Medium
+FAC00789,Kolkata,Park,1.2,4.1,5.2,0,527,22.2,2024-11-20,High
+FAC00608,Bangalore,Hospital,5.8,2.1,1.0,5,125,29.0,2024-11-05,Low
+FAC01000,Kolkata,Railway Station,5.8,5.5,6.2,1,525,17.3,2024-01-13,Medium
+FAC00283,Mumbai,Railway Station,7.9,7.6,4.4,3,430,9.4,2024-07-09,Medium
+FAC01429,Bangalore,Public Toilet,7.4,6.5,2.8,5,249,20.8,2024-01-14,Low
+FAC00596,Chennai,Public Toilet,5.2,5.6,3.6,4,467,8.3,2024-08-22,Medium
+FAC00936,Mumbai,Hospital,5.7,5.4,2.1,3,0,13.1,2024-03-14,Low
+FAC00997,Bangalore,Hospital,6.8,6.3,1.4,3,552,14.8,2024-08-05,Low
+FAC00944,Delhi,Public Toilet,6.0,6.7,8.3,0,485,3.6,2024-12-29,Low
+FAC00242,Delhi,Railway Station,5.7,4.4,5.7,4,506,14.7,2024-05-12,Medium
+FAC00644,Kolkata,Railway Station,10,8.4,2.9,3,432,26.5,2024-01-31,Medium
+FAC01478,Delhi,Railway Station,4.9,6.5,3.4,2,552,18.1,2024-03-30,Medium
+FAC00688,Chennai,Hospital,7.6,1.2,2.7,2,33,27.2,2024-10-18,Medium
+FAC00740,Chennai,Railway Station,9.9,6.7,5.6,7,0,28.5,2024-10-07,Medium
+FAC00945,Bangalore,Hospital,5.0,6.2,2.6,6,200,7.0,2024-04-28,Medium
+FAC00150,Mumbai,Railway Station,8.4,5.3,6.4,1,455,18.3,2024-01-25,Medium
+FAC00286,Delhi,Public Toilet,9.0,6.7,1.6,6,114,12.4,2024-01-30,Low
+FAC00755,Mumbai,Park,4.5,2.9,1.8,2,224,13.7,2024-07-13,Low
+FAC01171,Delhi,Public Toilet,3.4,7.2,3.7,0,412,16.9,2024-04-26,High
+FAC00012,Mumbai,Park,6.1,5.8,8.5,1,387,8.0,2024-09-05,High
+FAC01134,Bangalore,Public Toilet,3.8,,1.7,3,390,14.8,2024-01-28,Low
+FAC00162,Bangalore,Bus Stand,5.6,8.5,3.3,6,312,23.1,2024-12-22,High
+FAC00620,Kolkata,Park,5.6,4.7,4.9,6,239,20.3,2024-12-19,High
+FAC01445,Chennai,Hospital,8.0,2.1,6.5,2,0,0,2024-10-29,Low
+FAC00779,Kolkata,Railway Station,6.0,6.3,7.3,4,412,8.5,2024-09-27,Medium
+FAC00383,Kolkata,Park,4.6,6.2,7.8,10,490,25.7,2024-11-18,High
+FAC01145,Mumbai,Hospital,6.6,5.1,7.1,7,324,19.0,2024-02-08,High
+FAC01183,Delhi,Public Toilet,8.6,7.5,0.4,5,276,8.0,2024-03-19,High
+FAC01070,Kolkata,Bus Stand,7.3,6.4,3.6,4,192,11.9,2024-02-12,Low
+FAC01293,Delhi,Market,4.6,7.1,4.1,8,376,10.5,2024-12-05,High
+FAC01363,Chennai,Bus Stand,8.2,7.9,4.9,6,506,15.0,2024-12-31,Medium
+FAC00735,Kolkata,Hospital,6.9,6.0,7.5,6,564,8.9,2024-07-13,Medium
+FAC00884,Kolkata,Market,6.1,5.5,6.1,0,268,14.7,2024-05-28,High
+FAC00272,Pune,Bus Stand,7.2,4.6,9.1,7,463,13.0,2024-08-08,Medium
+FAC00179,Pune,Public Toilet,3.5,7.1,4.9,3,340,17.6,2024-05-05,High
+FAC00046,Chennai,Railway Station,4.0,3.8,6.5,5,387,10.2,2024-06-21,Medium
+FAC00260,Mumbai,Railway Station,7.9,0,5.0,1,142,11.5,2024-04-02,Low
+FAC00485,Delhi,Park,6.1,2.5,3.7,5,343,8.2,2024-02-13,Low
+FAC01218,Bangalore,Public Toilet,8.9,3.0,3.1,6,243,0,2024-02-06,Low
+FAC00048,Delhi,Park,7.5,5.0,5.8,4,487,22.5,2024-07-07,Medium
+FAC00773,Bangalore,Railway Station,7.5,6.7,7.8,4,605,,2024-09-02,High
+FAC00931,Delhi,Public Toilet,4.1,2.9,8.1,0,400,14.4,2024-02-21,High
+FAC01167,Mumbai,Public Toilet,4.8,6.0,6.7,2,390,24.3,2024-01-09,High
+FAC00159,Bangalore,Park,4.5,5.7,6.8,3,123,11.9,2024-12-20,High
+FAC00929,Kolkata,Bus Stand,5.0,7.3,7.2,1,182,8.6,2024-03-05,High
+FAC00744,Delhi,Hospital,5.8,4.3,6.4,4,0,17.1,2024-08-10,Medium
+FAC00370,Delhi,Hospital,5.0,3.7,5.5,8,363,7.8,2024-11-10,High
+FAC00879,Chennai,Market,5.5,10,5.5,7,418,16.7,2024-11-22,High
+FAC01419,Mumbai,Bus Stand,7.8,1.8,3.7,3,597,20.2,2024-02-17,Low
+FAC01432,Mumbai,Bus Stand,7.2,,2.4,10,498,27.8,2024-05-26,Medium
+FAC00063,Pune,Bus Stand,6.8,4.8,4.8,6,374,3.7,2024-04-25,Low
+FAC00746,Kolkata,Bus Stand,7.0,1.5,3.6,2,232,7.7,2024-12-08,Low
+FAC00149,Delhi,Market,10,6.9,6.0,1,655,10.0,2024-04-07,Medium
+FAC01259,Pune,Railway Station,5.1,2.0,3.0,6,252,26.0,2024-06-07,Medium
+FAC00994,Mumbai,Hospital,6.1,2.7,5.1,8,337,6.4,2024-07-22,Medium
+FAC01313,Mumbai,Park,6.7,5.9,4.4,0,447,6.0,2024-03-10,Low
+FAC01353,Mumbai,Hospital,1.9,3.4,7.4,5,522,15.5,2024-08-01,High
+FAC01084,Pune,Public Toilet,6.2,3.6,5.6,0,145,9.7,2024-08-09,Low
+FAC00968,Chennai,Bus Stand,7.0,2.9,4.8,1,349,3.4,2024-12-08,Low
+FAC00243,Kolkata,Hospital,8.6,7.9,4.1,10,325,12.1,2024-12-30,Medium
+FAC01159,Mumbai,Public Toilet,5.5,3.5,5.4,5,268,26.6,2024-08-30,Medium
+FAC01302,Mumbai,Hospital,6.6,5.3,7.0,5,427,20.2,2024-02-07,Medium
+FAC01066,Mumbai,Bus Stand,6.4,4.3,1.9,6,0,5.1,2024-04-03,Medium
+FAC01138,Chennai,Hospital,4.2,5.8,4.9,0,471,13.4,2024-01-11,Medium
+FAC01143,Chennai,Hospital,3.3,8.4,4.2,4,203,3.1,2024-08-05,High
+FAC00888,Delhi,Hospital,7.9,1.9,0.9,2,187,0,2024-04-04,Low
+FAC01106,Mumbai,Railway Station,8.4,8.4,5.2,4,0,9.3,2024-05-29,Medium
+FAC00480,Kolkata,Public Toilet,6.0,4.5,1.4,4,482,24.1,2024-08-26,Low
+FAC01082,Kolkata,Public Toilet,5.7,10,5.7,0,158,7.6,2024-01-22,High
+FAC00032,Mumbai,Public Toilet,5.1,3.8,7.2,3,393,12.5,2024-05-15,Medium
+FAC00941,Pune,Park,6.2,4.4,4.1,4,389,1.6,2024-11-18,Low
+FAC01243,Kolkata,Railway Station,8.1,7.9,4.5,4,357,23.5,2024-06-26,Medium
+FAC00796,Pune,Market,5.6,7.7,5.2,2,350,13.1,2024-04-25,Medium
+FAC00327,Mumbai,Park,5.5,2.1,2.0,2,555,9.6,2024-08-04,Low
+FAC00830,Bangalore,Park,6.7,2.7,4.9,6,407,25.3,2024-06-03,Low
+FAC01274,Chennai,Park,7.0,5.2,5.1,0,307,19.0,2024-09-30,Low
+FAC01157,Mumbai,Railway Station,6.1,6.7,2.7,1,33,20.2,2024-02-24,Low
+FAC01163,Kolkata,Market,5.3,6.2,5.0,0,138,,2024-07-01,Medium
+FAC01095,Pune,Market,3.3,9.3,7.4,8,440,13.5,2024-09-16,High
+FAC00774,Pune,Market,3.1,5.7,4.6,5,199,13.6,2024-05-06,High
+FAC00289,Mumbai,Market,7.6,7.6,8.6,2,175,4.4,2024-12-15,Medium
+FAC01135,Chennai,Railway Station,4.7,9.4,4.9,5,390,28.9,2024-08-16,High
+FAC00603,Bangalore,Park,8.2,7.6,5.8,0,0,15.1,2024-08-04,Medium
+FAC00415,Delhi,Railway Station,6.7,0.9,4.5,11,167,16.6,2024-09-22,Low
+FAC01123,Chennai,Public Toilet,6.8,5.0,0.9,8,205,13.8,2024-01-13,Low
+FAC00860,Pune,Hospital,4.1,5.7,3.9,9,250,14.4,2024-05-04,Medium
+FAC00881,Mumbai,Bus Stand,6.3,7.5,5.2,6,212,31.5,2024-08-11,Medium
+FAC00399,Chennai,Public Toilet,6.7,3.7,7.5,0,579,18.8,2024-05-08,Medium
+FAC01151,Chennai,Public Toilet,6.3,5.6,7.1,1,301,18.7,2024-11-13,Medium
+FAC00753,Bangalore,Railway Station,8.7,8.5,4.8,5,117,10.6,2024-10-08,Medium
+FAC00031,Bangalore,Railway Station,6.9,9.0,2.9,4,352,8.5,2024-02-05,Low
+FAC01260,Bangalore,Railway Station,6.8,7.6,4.4,3,624,19.9,2024-02-07,Medium
+FAC01071,Kolkata,Park,2.7,8.3,6.0,3,380,9.2,2024-03-18,High
+FAC00086,Kolkata,Public Toilet,6.3,4.0,3.2,0,72,23.3,2024-05-15,Low
+FAC00962,Bangalore,Park,4.7,3.7,7.3,8,301,14.5,2024-12-12,High
+FAC01267,Chennai,Market,7.0,,4.1,0,59,10.8,2024-02-02,Medium
+FAC01438,Delhi,Public Toilet,5.0,5.7,5.2,4,423,8.5,2024-07-24,Medium
+FAC01212,Bangalore,Park,7.0,5.7,5.5,2,223,8.0,2024-06-23,Low
+FAC01258,Pune,Bus Stand,8.7,6.5,4.4,8,297,10.6,2024-06-22,Medium
+FAC00817,Bangalore,Bus Stand,6.6,5.6,4.8,1,512,3.4,2024-03-27,Low
+FAC00206,Chennai,Railway Station,5.1,5.6,3.1,5,298,2.7,2024-05-23,Medium
+FAC00664,Pune,Park,4.7,4.0,5.2,4,615,19.0,2024-11-02,Medium
+FAC01110,Chennai,Market,4.2,4.3,2.5,6,362,20.7,2024-08-06,Medium
+FAC00916,Chennai,Market,7.2,0.9,4.7,0,0,7.5,2024-09-30,Low
+FAC00004,Bangalore,Public Toilet,8.1,5.1,0.9,2,85,3.2,2024-04-26,Low
+FAC00578,Bangalore,Market,6.7,4.9,1.4,3,472,20.5,2024-03-15,Low
+FAC00461,Bangalore,Market,5.8,4.4,4.2,0,275,4.5,2024-02-14,Low
+FAC00185,Mumbai,Bus Stand,5.9,5.1,8.0,6,116,7.8,2024-06-04,Medium
+FAC00178,Mumbai,Hospital,8.4,5.1,4.2,0,236,18.0,2024-02-27,Low
+FAC00613,Pune,Park,3.0,3.8,4.9,4,147,4.8,2024-11-01,Medium
+FAC00760,Bangalore,Market,5.1,3.9,5.1,0,165,18.3,2024-05-26,Low
+FAC00805,Delhi,Public Toilet,6.0,5.7,6.6,3,249,2.8,2024-07-06,High
+FAC01326,Pune,Public Toilet,8.4,4.7,6.9,2,124,23.4,2024-03-20,Medium
+FAC00027,Delhi,Park,5.8,6.3,5.8,3,86,18.5,2024-12-19,Medium
+FAC00152,Kolkata,Public Toilet,4.3,6.9,5.5,7,489,18.2,2024-12-14,High
+FAC00189,Chennai,Bus Stand,3.7,8.0,1.5,4,270,8.3,2024-09-08,High
+FAC00551,Mumbai,Hospital,6.4,8.0,6.8,6,431,14.5,2024-10-02,High
+FAC00865,Delhi,Railway Station,5.5,6.5,2.8,5,233,21.5,2024-08-04,Medium
+FAC00799,Delhi,Hospital,5.2,4.2,5.8,2,166,14.0,2024-01-02,Medium
+FAC01369,Chennai,Railway Station,6.2,6.0,8.7,2,280,18.0,2024-02-18,High
+FAC00887,Chennai,Bus Stand,5.5,4.8,5.8,5,21,16.5,2024-07-26,Medium
+FAC00893,Kolkata,Railway Station,5.7,7.3,7.2,1,190,20.3,2024-12-03,High
+FAC00095,Chennai,Market,8.0,6.9,5.2,3,386,0,2024-02-01,Medium
+FAC01412,Delhi,Public Toilet,4.8,4.8,2.5,5,159,3.7,2024-05-28,Medium
+FAC00041,Kolkata,Market,7.9,4.1,6.5,2,491,27.4,2024-05-21,Low
+FAC00679,Delhi,Public Toilet,7.9,4.1,4.7,6,181,17.5,2024-02-13,Low
+FAC00153,Mumbai,Public Toilet,6.9,6.1,0.3,10,177,11.3,2024-01-21,Medium
+FAC00897,Delhi,Public Toilet,8.1,7.5,3.3,3,79,14.7,2024-09-27,Low
+FAC00777,Bangalore,Public Toilet,6.7,7.5,6.7,5,393,15.2,2024-05-06,High
+FAC01205,Chennai,Public Toilet,9.5,3.1,5.5,5,106,8.9,2024-05-14,Low
+FAC00675,Mumbai,Park,7.3,5.8,7.9,1,375,21.3,2024-05-05,Medium
+FAC00572,Bangalore,Railway Station,7.0,6.3,3.9,1,191,16.8,2024-07-30,Low
+FAC00758,Kolkata,Park,4.9,7.5,4.3,6,360,15.5,2024-12-13,High
+FAC01461,Chennai,Park,6.5,1.7,2.4,6,453,20.7,2024-09-30,Low
+FAC00374,Chennai,Public Toilet,4.6,0.5,1.3,2,339,0,2024-01-15,Low
+FAC00828,Kolkata,Hospital,7.7,2.5,9.1,4,492,10.2,2024-05-14,Medium
+FAC00937,Chennai,Bus Stand,8.6,3.2,3.1,5,421,9.2,2024-09-06,Low
+FAC00035,Kolkata,Park,8.1,4.0,3.7,1,253,4.4,2024-03-30,Low
+FAC00407,Kolkata,Market,9.0,5.4,3.6,5,633,15.9,2024-12-03,Low
+FAC00008,Chennai,Public Toilet,6.2,6.9,3.1,3,25,5.3,2024-09-17,Low
+FAC00072,Bangalore,Hospital,8.3,4.3,7.6,0,273,27.9,2024-01-02,Medium
+FAC00201,Kolkata,Park,6.2,3.7,4.8,4,265,21.1,2024-08-17,Low
+FAC01386,Pune,Park,7.3,7.6,2.6,4,510,25.6,2024-03-09,Medium
+FAC00648,Chennai,Public Toilet,7.6,3.5,4.8,2,226,12.8,2024-10-11,Low
+FAC01206,Mumbai,Park,9.0,4.9,3.7,3,424,15.3,2024-07-09,Low
+FAC00837,Pune,Market,10,3.8,4.9,12,401,24.8,2024-03-06,Medium
+FAC00634,Pune,Market,8.0,3.9,2.7,4,109,12.2,2024-09-12,Low
+FAC00645,Delhi,Bus Stand,7.6,8.3,4.3,5,531,27.2,2024-01-27,Medium
+FAC00400,Delhi,Market,8.6,7.8,4.6,9,74,18.6,2024-12-06,Medium
+FAC00284,Bangalore,Railway Station,7.0,3.9,4.1,7,295,10.6,2024-08-14,Low
+FAC01481,Delhi,Bus Stand,6.5,5.4,6.7,1,485,20.7,2024-10-13,Medium
+FAC01128,Kolkata,Bus Stand,5.5,4.5,10,1,433,8.8,2024-12-29,Medium
+FAC00863,Pune,Public Toilet,4.7,6.8,3.6,2,271,15.8,2024-10-22,Medium
+FAC00566,Delhi,Railway Station,6.0,8.5,0,0,205,19.5,2024-12-11,Medium
+FAC00989,Delhi,Park,3.4,7.0,6.6,3,508,15.7,2024-09-25,High
+FAC00098,Pune,Market,2.7,7.2,1.2,6,111,21.7,2024-03-19,High
+FAC01046,Chennai,Market,4.2,,3.0,7,285,8.1,2024-07-29,Medium
+FAC01208,Delhi,Public Toilet,4.2,5.8,6.3,5,186,6.6,2024-09-18,High
+FAC00175,Chennai,Public Toilet,7.7,5.6,6.1,4,470,17.7,2024-02-05,Medium
+FAC01314,Bangalore,Park,8.0,9.1,5.1,1,620,19.0,2024-02-12,Medium
+FAC00500,Pune,Railway Station,8.6,6.8,4.5,2,409,26.0,2024-10-03,Medium
+FAC01331,Bangalore,Hospital,8.6,4.8,5.0,3,331,17.8,2024-05-21,Low
+FAC00654,Bangalore,Bus Stand,5.5,3.8,6.1,0,257,,2024-08-24,Medium
+FAC00593,Delhi,Market,6.2,7.8,8.5,1,414,19.2,2024-01-23,High
+FAC01133,Chennai,Railway Station,5.8,8.7,3.5,3,92,22.1,2024-03-07,Medium
+FAC00482,Mumbai,Hospital,6.0,5.3,0.2,5,191,10.8,2024-03-26,Low
+FAC01484,Kolkata,Bus Stand,4.9,7.6,2.0,7,514,17.0,2024-05-15,High
+FAC00127,Pune,Bus Stand,8.2,,5.2,0,586,25.1,2024-05-03,Medium
+FAC00592,Kolkata,Bus Stand,5.4,1.9,7.1,4,0,29.0,2024-01-22,Medium
+FAC00191,Kolkata,Market,6.5,3.3,5.4,2,314,13.0,2024-12-07,Low
+FAC00786,Bangalore,Public Toilet,5.9,6.9,5.7,5,190,12.6,2024-03-09,Medium
+FAC00764,Chennai,Bus Stand,5.4,2.2,4.7,8,603,9.5,2024-11-06,Medium
+FAC00388,Kolkata,Market,6.5,7.1,4.2,6,241,9.0,2024-10-27,Medium
+FAC00606,Bangalore,Park,4.1,4.3,6.8,2,155,13.4,2024-06-30,Medium
+FAC00172,Pune,Railway Station,9.0,3.6,5.9,0,337,2.0,2024-09-27,Low
+FAC01122,Chennai,Bus Stand,6.4,4.1,5.1,6,0,5.8,2024-06-28,Low
+FAC00023,Mumbai,Park,6.4,7.4,3.8,1,212,26.2,2024-02-21,Medium
+FAC00250,Chennai,Hospital,4.9,5.1,3.9,4,572,13.8,2024-09-23,Medium
+FAC00792,Delhi,Hospital,8.9,3.0,4.1,2,424,20.6,2024-09-26,Low
