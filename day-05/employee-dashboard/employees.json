@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul@gmail.com",
+        "department": "IT",
+        "salary": 35000
+    },
+    {
+        "id": 2,
+        "name": "Priya Patil",
+        "email": "priya@gmail.com",
+        "department": "HR",
+        "salary": 30000
+    },
+    {
+        "id": 3,
+        "name": "Amit Verma",
+        "email": "amit@gmail.com",
+        "department": "Finance",
+        "salary": 40000
+    },
+    {
+        "id": 4,
+        "name": "Neha Singh",
+        "email": "neha@gmail.com",
+        "department": "IT",
+        "salary": 45000
+    },
+    {
+        "id": 5,
+        "name": "Rohit Joshi",
+        "email": "rohit@gmail.com",
+        "department": "Marketing",
+        "salary": 32000
+    }
+]

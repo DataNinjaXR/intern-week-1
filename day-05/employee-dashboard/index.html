@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Employee Dashboard</h1>
+
+        <div class="controls">
+            <input type="text" id="search" placeholder="Search employee...">
+
+            <select id="department">
+                <option value="All">All Departments</option>
+                <option value="IT">IT</option>
+                <option value="HR">HR</option>
+                <option value="Finance">Finance</option>
+                <option value="Marketing">Marketing</option>
+            </select>
+
+            <select id="sort">
+                <option value="name">Sort by Name</option>
+                <option value="salary">Sort by Salary</option>
+            </select>
+
+            <button onclick="showAddForm()">Add Employee</button>
+        </div>
+
+        <div id="form-container"></div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Department</th>
+                    <th>Salary</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody id="employee-list">
+            </tbody>
+        </table>
+
+        <div id="details"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
