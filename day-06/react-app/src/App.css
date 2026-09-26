@@ -1,0 +1,304 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f1f5f9;
+  color: #1e293b;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+}
+
+/* Main App */
+.app {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 24px 50px;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Buttons */
+button {
+  border: none;
+  border-radius: 7px;
+  padding: 10px 16px;
+  background: #2563eb;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+/* Dashboard Statistics */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.stat-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 22px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+}
+
+.stat-card h3 {
+  margin: 0 0 10px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #64748b;
+}
+
+.stat-card p {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Search / Filter / Sort */
+.controls {
+  display: grid;
+  grid-template-columns: 1fr 220px 220px;
+  gap: 14px;
+  margin-bottom: 25px;
+}
+
+.controls input,
+.controls select {
+  width: 100%;
+  height: 44px;
+  padding: 0 13px;
+  border: 1px solid #cbd5e1;
+  border-radius: 7px;
+  background: white;
+  color: #334155;
+  outline: none;
+}
+
+.controls input:focus,
+.controls select:focus {
+  border-color: #2563eb;
+}
+
+/* Employee List */
+.employee-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.employee-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+}
+
+.employee-card h3 {
+  margin: 0 0 15px;
+  font-size: 19px;
+  color: #0f172a;
+}
+
+.employee-card p {
+  margin: 9px 0;
+  font-size: 14px;
+  color: #475569;
+  line-height: 1.5;
+}
+
+.employee-card strong {
+  color: #1e293b;
+}
+
+/* Action Buttons */
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.actions button {
+  padding: 8px 12px;
+  font-size: 13px;
+}
+
+/* Delete button */
+.actions button:last-child {
+  background: #dc2626;
+}
+
+.actions button:last-child:hover {
+  background: #b91c1c;
+}
+
+/* Employee Form */
+.employee-form {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+}
+
+.employee-form h2 {
+  margin: 0 0 20px;
+  color: #0f172a;
+}
+
+.employee-form input,
+.employee-form select {
+  display: block;
+  width: 100%;
+  height: 44px;
+  margin-bottom: 14px;
+  padding: 0 13px;
+  border: 1px solid #cbd5e1;
+  border-radius: 7px;
+  outline: none;
+}
+
+.employee-form input:focus,
+.employee-form select:focus {
+  border-color: #2563eb;
+}
+
+.employee-form .actions {
+  margin-top: 5px;
+}
+
+/* Employee Details */
+.details {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+}
+
+.details h2 {
+  margin: 0 0 20px;
+  color: #0f172a;
+}
+
+.details p {
+  margin: 10px 0;
+  color: #475569;
+}
+
+.details strong {
+  color: #1e293b;
+}
+
+/* Loading / Error */
+.loading,
+.error {
+  text-align: center;
+  margin-top: 100px;
+  color: #334155;
+}
+
+/* Empty list */
+.employee-list:empty::after {
+  content: "No employees found.";
+  display: block;
+  grid-column: 1 / -1;
+  padding: 40px;
+  text-align: center;
+  background: white;
+  border-radius: 12px;
+  color: #64748b;
+}
+
+/* Tablet */
+@media (max-width: 950px) {
+  .employee-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .controls {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .controls input {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Mobile */
+@media (max-width: 650px) {
+  .app {
+    padding: 20px 15px 40px;
+  }
+
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  header h1 {
+    font-size: 24px;
+  }
+
+  .stats {
+    grid-template-columns: 1fr;
+  }
+
+  .employee-list {
+    grid-template-columns: 1fr;
+  }
+
+  .controls {
+    grid-template-columns: 1fr;
+  }
+
+  .controls input {
+    grid-column: auto;
+  }
+
+  .employee-card {
+    padding: 18px;
+  }
+}
