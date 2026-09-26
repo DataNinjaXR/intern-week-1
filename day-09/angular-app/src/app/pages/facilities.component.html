@@ -1,0 +1,115 @@
+<div class="facilities-page">
+
+  <div class="page-header">
+    <h1>Facilities</h1>
+    <p>Search, filter and sort facility information.</p>
+  </div>
+
+  <div class="filters">
+
+    <input
+      type="text"
+      placeholder="Search by name or location"
+      [(ngModel)]="searchText"
+      (input)="onSearch()"
+    />
+
+    <select
+      [(ngModel)]="selectedStatus"
+      (change)="onStatusChange()"
+    >
+      <option value="All">All Status</option>
+      <option value="Good">Good</option>
+      <option value="Average">Average</option>
+      <option value="Poor">Poor</option>
+    </select>
+
+    <select
+      [(ngModel)]="sortOption"
+      (change)="onSortChange()"
+    >
+      <option value="name">Sort by Name</option>
+      <option value="score-high">Score: High to Low</option>
+      <option value="score-low">Score: Low to High</option>
+    </select>
+
+    <button type="button" (click)="clearFilters()">
+      Clear
+    </button>
+
+  </div>
+
+  <div *ngIf="loading" class="message">
+    Loading facilities...
+  </div>
+
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+
+  <div *ngIf="!loading && !errorMessage">
+
+    <div class="result-count">
+      Showing {{ filteredFacilities.length }} of
+      {{ facilities.length }} facilities
+    </div>
+
+    <div *ngIf="filteredFacilities.length > 0" class="table-container">
+
+      <table>
+
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Facility Name</th>
+            <th>Location</th>
+            <th>Cleanliness Score</th>
+            <th>Status</th>
+            <th>Details</th>
+          </tr>
+        </thead>
+
+        <tbody>
+
+          <tr *ngFor="let facility of filteredFacilities">
+
+            <td>{{ facility.id }}</td>
+
+            <td>{{ facility.name }}</td>
+
+            <td>{{ facility.location }}</td>
+
+            <td>
+              {{ facility.cleanliness_score ?? 'N/A' }}
+            </td>
+
+            <td>
+              <span class="status">
+                {{ facility.status }}
+              </span>
+            </td>
+
+            <td>
+              <a [routerLink]="['/facilities', facility.id]">
+                View Details
+              </a>
+            </td>
+
+          </tr>
+
+        </tbody>
+
+      </table>
+
+    </div>
+
+    <div
+      *ngIf="filteredFacilities.length === 0"
+      class="message"
+    >
+      No facilities found.
+    </div>
+
+  </div>
+
+</div>

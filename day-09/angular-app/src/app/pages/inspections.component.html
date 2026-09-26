@@ -1,0 +1,72 @@
+<div class="inspections-page">
+
+  <div class="page-header">
+    <h1>Inspection History</h1>
+    <p>View previous facility inspections and their results.</p>
+  </div>
+
+  <div *ngIf="loading" class="message">
+    Loading inspection history...
+  </div>
+
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+
+  <div
+    *ngIf="!loading && !errorMessage && inspections.length > 0"
+    class="table-container"
+  >
+
+    <table>
+
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Facility ID</th>
+          <th>Inspector</th>
+          <th>Date</th>
+          <th>Score</th>
+          <th>Remarks</th>
+        </tr>
+      </thead>
+
+      <tbody>
+
+        <tr *ngFor="let inspection of inspections">
+
+          <td>{{ inspection.id }}</td>
+
+          <td>{{ inspection.facility_id }}</td>
+
+          <td>{{ inspection.inspector_name }}</td>
+
+          <td>{{ inspection.inspection_date }}</td>
+
+          <td>
+            <span
+              class="score"
+              [ngClass]="getScoreClass(inspection.score)"
+            >
+              {{ inspection.score }}
+            </span>
+          </td>
+
+          <td>{{ inspection.remarks }}</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </div>
+
+  <div
+    *ngIf="!loading && !errorMessage && inspections.length === 0"
+    class="message"
+  >
+    No inspection records found.
+  </div>
+
+</div>

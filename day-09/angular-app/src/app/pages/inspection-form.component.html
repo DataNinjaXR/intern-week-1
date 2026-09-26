@@ -1,0 +1,151 @@
+<div class="form-page">
+
+  <div class="page-header">
+    <h1>New Inspection</h1>
+    <p>Enter inspection details for a facility.</p>
+  </div>
+
+  <div *ngIf="successMessage" class="success">
+    {{ successMessage }}
+  </div>
+
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+
+  <form
+    [formGroup]="inspectionForm"
+    (ngSubmit)="submitForm()"
+    class="inspection-form"
+  >
+
+    <div class="form-group">
+      <label for="facility">Facility</label>
+
+      <select
+        id="facility"
+        formControlName="facility_id"
+      >
+        <option value="0">Select Facility</option>
+
+        <option
+          *ngFor="let facility of facilities"
+          [value]="facility.id"
+        >
+          {{ facility.name }} - {{ facility.location }}
+        </option>
+      </select>
+
+      <small
+        *ngIf="
+          inspectionForm.controls.facility_id.touched &&
+          inspectionForm.controls.facility_id.invalid
+        "
+      >
+        Please select a facility.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="inspector">Inspector Name</label>
+
+      <input
+        id="inspector"
+        type="text"
+        formControlName="inspector_name"
+        placeholder="Enter inspector name"
+      />
+
+      <small
+        *ngIf="
+          inspectionForm.controls.inspector_name.touched &&
+          inspectionForm.controls.inspector_name.invalid
+        "
+      >
+        Inspector name is required.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="date">Inspection Date</label>
+
+      <input
+        id="date"
+        type="date"
+        formControlName="inspection_date"
+      />
+
+      <small
+        *ngIf="
+          inspectionForm.controls.inspection_date.touched &&
+          inspectionForm.controls.inspection_date.invalid
+        "
+      >
+        Inspection date is required.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="score">Inspection Score (0–10)</label>
+
+      <input
+        id="score"
+        type="number"
+        min="0"
+        max="10"
+        step="0.1"
+        formControlName="score"
+      />
+
+      <small
+        *ngIf="
+          inspectionForm.controls.score.touched &&
+          inspectionForm.controls.score.invalid
+        "
+      >
+        Score must be between 0 and 10.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="remarks">Remarks</label>
+
+      <textarea
+        id="remarks"
+        rows="5"
+        formControlName="remarks"
+        placeholder="Enter inspection remarks"
+      ></textarea>
+
+      <small
+        *ngIf="
+          inspectionForm.controls.remarks.touched &&
+          inspectionForm.controls.remarks.invalid
+        "
+      >
+        Remarks must contain at least 5 characters.
+      </small>
+    </div>
+
+    <div class="buttons">
+
+      <button
+        type="submit"
+        [disabled]="submitting"
+      >
+        {{ submitting ? 'Submitting...' : 'Submit Inspection' }}
+      </button>
+
+      <button
+        type="button"
+        class="secondary"
+        (click)="goToHistory()"
+      >
+        View History
+      </button>
+
+    </div>
+
+  </form>
+
+</div>

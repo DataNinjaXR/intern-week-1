@@ -1,0 +1,74 @@
+<div class="dashboard">
+
+  <div class="page-header">
+    <h1>Facility Inspection Dashboard</h1>
+    <p>Monitor facilities and inspection performance.</p>
+  </div>
+
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+
+  <div class="metrics">
+
+    <div class="metric-card">
+      <h3>Total Facilities</h3>
+      <p>{{ totalFacilities }}</p>
+    </div>
+
+    <div class="metric-card">
+      <h3>Total Inspections</h3>
+      <p>{{ totalInspections }}</p>
+    </div>
+
+    <div class="metric-card">
+      <h3>Average Score</h3>
+      <p>{{ averageScore }}</p>
+    </div>
+
+    <div class="metric-card">
+      <h3>Good Facilities</h3>
+      <p>{{ goodFacilities }}</p>
+    </div>
+
+  </div>
+
+  <div class="section">
+
+    <h2>Facility Summary</h2>
+
+    <p *ngIf="facilities.length === 0 && !errorMessage">
+      Loading facility data...
+    </p>
+
+    <table *ngIf="facilities.length > 0">
+
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Facility</th>
+          <th>Location</th>
+          <th>Cleanliness Score</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+
+      <tbody>
+
+        <tr *ngFor="let facility of facilities">
+
+          <td>{{ facility.id }}</td>
+          <td>{{ facility.name }}</td>
+          <td>{{ facility.location }}</td>
+          <td>{{ facility.cleanliness_score ?? 'N/A' }}</td>
+          <td>{{ facility.status }}</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </div>
+
+</div>

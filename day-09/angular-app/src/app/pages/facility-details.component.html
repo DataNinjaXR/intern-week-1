@@ -1,0 +1,66 @@
+<div class="details-page">
+
+  <a routerLink="/facilities" class="back-link">
+    ← Back to Facilities
+  </a>
+
+  <div *ngIf="loading" class="message">
+    Loading facility details...
+  </div>
+
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+
+  <div *ngIf="facility && !loading" class="details-card">
+
+    <div class="header">
+      <div>
+        <h1>{{ facility.name }}</h1>
+        <p>{{ facility.location }}</p>
+      </div>
+
+      <span class="status">
+        {{ facility.status }}
+      </span>
+    </div>
+
+    <div class="details-grid">
+
+      <div class="detail-item">
+        <span>Facility ID</span>
+        <strong>{{ facility.id }}</strong>
+      </div>
+
+      <div class="detail-item">
+        <span>Location</span>
+        <strong>{{ facility.location }}</strong>
+      </div>
+
+      <div class="detail-item">
+        <span>Cleanliness Score</span>
+        <strong>
+          {{ facility.cleanliness_score ?? 'N/A' }}
+        </strong>
+      </div>
+
+      <div class="detail-item">
+        <span>Status</span>
+        <strong>{{ facility.status }}</strong>
+      </div>
+
+      <div class="detail-item" *ngIf="facility.created_at">
+        <span>Created At</span>
+        <strong>{{ facility.created_at }}</strong>
+      </div>
+
+      <div class="detail-item" *ngIf="facility.updated_at">
+        <span>Updated At</span>
+        <strong>{{ facility.updated_at }}</strong>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
