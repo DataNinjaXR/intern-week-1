@@ -23,7 +23,7 @@ import {
   RefreshCw,
 } from "lucide-react";
 
-const API = "http://localhost:5000/api";
+const API = "https://campus-facility-api-quxf.onrender.com/api";
 
 const api = axios.create({
   baseURL: API,
