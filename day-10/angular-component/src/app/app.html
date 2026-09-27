@@ -1,0 +1,66 @@
+<div class="app-container">
+  <header class="app-header">
+    <div class="header-icon">🏫</div>
+    <div>
+      <h1>{{ title() }}</h1>
+      <p>Angular Reusable Component — Campus Facility Management System</p>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <div class="controls-card">
+      <h2>Check Facility Availability</h2>
+      <p class="subtitle">Select a facility and date to see existing bookings</p>
+
+      <div class="controls">
+        <div class="control-group">
+          <label for="facilitySelect">Facility</label>
+          <select id="facilitySelect" [(ngModel)]="facilityId">
+            @for (option of facilityOptions; track option.id) {
+              <option [value]="option.id">{{ option.name }}</option>
+            }
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="dateInput">Date</label>
+          <input
+            id="dateInput"
+            type="date"
+            [(ngModel)]="selectedDate"
+          />
+        </div>
+
+        <button class="today-btn" (click)="setToday()">Today</button>
+      </div>
+    </div>
+
+    @if (selectedDate) {
+      <app-facility-availability
+        [facilityId]="facilityId"
+        [selectedDate]="selectedDate"
+      />
+    } @else {
+      <div class="placeholder-card">
+        <div class="placeholder-icon">📅</div>
+        <p>Please select a date above to check availability.</p>
+      </div>
+    }
+
+    <div class="info-card">
+      <h3>About this Component</h3>
+      <p>
+        This is a standalone Angular reusable component that calls the same
+        Express.js REST API as the main React application.
+      </p>
+      <ul>
+        <li>Accepts <code>facilityId</code> and <code>selectedDate</code> inputs</li>
+        <li>Calls <code>GET /api/facilities/:id/availability?date=YYYY-MM-DD</code></li>
+        <li>Displays loading, error, empty, and populated states</li>
+        <li>Can be embedded in any Angular application</li>
+      </ul>
+    </div>
+  </main>
+</div>
+
+<router-outlet />

@@ -1,0 +1,44 @@
+<div class="availability-card">
+  <h3>Availability Results</h3>
+
+  @if (loading) {
+    <div class="loading-state">
+      <span>⏳</span>
+      <span>Loading availability...</span>
+    </div>
+  }
+
+  @if (error && !loading) {
+    <div class="error-state">
+      <span>⚠️</span>
+      <span>{{ error }}</span>
+    </div>
+  }
+
+  @if (!loading && !error && bookings.length === 0) {
+    <div class="empty-state">
+      <span>✓</span>
+      <span>No bookings — facility is available on this date.</span>
+    </div>
+  }
+
+  @if (!loading && !error && bookings.length > 0) {
+    <div class="booking-list">
+      @for (booking of bookings; track booking.id) {
+        <div class="booking-item">
+          <div>
+            <div class="booking-time">
+              {{ booking.start_time }} — {{ booking.end_time }}
+            </div>
+            @if (booking.purpose) {
+              <div class="booking-purpose">{{ booking.purpose }}</div>
+            }
+          </div>
+          <span class="booking-status status-{{ booking.status }}">
+            {{ booking.status }}
+          </span>
+        </div>
+      }
+    </div>
+  }
+</div>
